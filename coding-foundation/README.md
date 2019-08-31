@@ -49,6 +49,29 @@ Verify that it is installed:
 
 ![installed](assets/atom-live-server-installed.png)
 
+
+Great! We have achieved a lot. Let's go on!
+
+#### Working environment
+
+For the whole semester, you will always work in the same folder (with subfolder of course). This folder exists already, but only online, in your GitHub repository. Now we will download it, or as we call it in the context of GitHub, we **clone** your repository to you local machine (aka your computer).
+
+###### Clone remote repository using Atom
+
+First, let's find the repository we want to clone on your GitHub profile. We will tell atom to clone it the descriptor we need is to be found on the right side, copy the HTTPS-link:
+
+![https](assets/https-link.png)
+
+
+Now open Atom. In the menu bar, click on ``packages > Command Palette > Toggle``. A search bar on the top of your Atom window should appear, search for "GitHub Clone" and hit enter:
+
+![clone](assets/clone.png)
+
+A dialogue window opens on the top of the window.
+
+
+
+
 <!-- Hi,
 welcome to the Critical Data & Visualization class. Please follow the following steps. First, we will set up your work environment for this semester, and then run you through a little JavaScript exercise. In the end, I will show you how to submit things (assignments, poems, memes, etc.) to be shared with me & the rest of the students.
 
