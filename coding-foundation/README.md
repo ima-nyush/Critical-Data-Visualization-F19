@@ -67,7 +67,86 @@ Now open Atom. In the menu bar, click on ``packages > Command Palette > Toggle``
 
 ![clone](assets/clone.png)
 
-A dialogue window opens on the top of the window.
+A dialogue window opens on the top of the window. Paste the url you copied from Github from the first line and write the first line exactly (just with your username of course) like in below screenshot.
+
+![clone2](assets/clone2.png)
+
+Then hit enter, wait a little, and have a look on your Desktop:
+
+![cdv](assets/cdv.png)
+
+Close Atom, and decide where you want to drag this folder to, put it somewhere where it can stay all semester (or maybe you are happy with it on the Desktop - I like my Desktop clean :)
+
+Great, we are very far, everything you will work on takes place in this folder. Follow along as I run you through the basic workflow:
+
+###### Open your files in Atom (the right way(s))
+I recommend to use one of two ways to open your class folder in Atom.
+
+1. After opening Atom, click ``File>Open..`` and navigate to your folder, don't click on a subfolder or a specific file, just on the folder named "my-cdv-fall19". Then click ``Open``.
+2. Find the "my-cdv-fall19" folder in your file system, drag it onto the Atom application icon.
+
+If you did it correctly you will notice two things. 1) Atom displays all the files and subfolder easily accessible in the sidebar. 2) See this little book symbol next to the name of the repository? That means that Atom know that it is also a GitHub repository and will make it really easy for us to push our changes to GitHub!
+
+![atom-dir](assets/atom-dir.png)
+
+###### Opening atom-live-server
+
+From now on you will always use atom-live-server. Let's see how it works. With your folder open in Atom, click ``packages>atom-live-server>Start Server``:
+
+![start server](assets/start-server.png)
+
+Your browser should automatically open (please define Chrome as your default browser), in the url you will see something like ``http://127.0.0.1:3000/`` or ``http://localhost:3000/`` (the number at the end might vary) and in the browser you see all the folder from your "my-cdv-fall19" directory:
+
+![live server](assets/live-server.png)
+
+great! this is exciting :D you will be able to see everything you work on here. Mainly you will work on websites in this class, if you work on them while using ``atom-live-server`` you can see changes you makes in real time. In your browser click on the test-page folder I prepared, a website! If you want try making a change to the website ``index.html`` file in Atom, save, then return to your browser. Cool right?
+
+###### Shutting atom-live-server down
+
+I assume the best way would be to click on ``Packages>atom-live-server>Stop...``, but if you forget this sometimes and just close Atom, or leave the live server open, that's not a big deal either.
+
+###### Pushing changes to your remote GitHub repository
+
+Okay, I bet this is new for you and I am excited. Let's assume we work on a project somewhere inside the "my-cdv-fall19" directory. Normally this would probably take place in a subfolder like ``my-cdv-fall19/my-work/week3/data-project``, but for now let's make some changes in ``test-page/index.html`` and save them (``cmd+s``). Look at the files in your sidebar, the are green now:
+
+![changes](assets/changes.png)
+
+This means that Atom realizes you made changes that have not yet been backed up/pushed to GitHub. Next we want to push this changes. Find the little, tiny "Git" at the bottom right of the window? (If not, lok out for "Git" in the meny bar ``packages`` drop down).
+
+![git](assets/git.png)
+
+After clicking it, a new Tab opens in Atom. It looks a but complicated, I will dedicate a new chapter to this next part:
+
+###### The push
+
+There is **three steps** you need to do every time you **push changes to GitHub**:
+1. Stage changes (select which files/changes to commit and push)
+2. Commit (add a little messages about the changes you made)
+3. Push (push the changes to Github)
+
+**Stage**
+In most cases you can click "Stage all", which will simply stage all the files in which you made changes since your last push. FYI in the box dialogue you can always see those files.
+
+![unstaged](assets/unstaged.png)
+
+**Commit**
+Not how you can now see the files you have staged in the second box. Type a little message describin the changes you made, keep it simple, late at night even a "💤" will do. Best practice is to be specific. One benefit of using GitHub is that you can go backwards in time when your project suddenly doesn't work anymore. You can go back to any commit/push you want. For this, a descriptive commit message is helpful, too.
+
+![commit](assets/commit.png)
+
+**Push**
+The last step is to push it all up to GitHub. Click ``Push`` at the bottom. Then, check your GitHub repository online. Are the changes there? 🤞🤞🤞🤞
+
+![push2](assets/push2.png)
+
+
+Well, that's it, you made it. You can now use GitHub (and Atom and atom-live-server). This is very cool!!!
+
+
+
+
+
+
 
 
 
