@@ -1,4 +1,16 @@
-Hi,
+## Coding Foundation: Setup and Exercises
+
+This semester you will be maintaining a Github repository of you own to backup and share your work. The idea is this:
+
+![push](assets/push.png)
+
+As you can see above, there will be two repositories:
+- One is the one I am maintaining (red). That is also the one on which you are reading this text right now. Here you will get information and resources throughout the Semester.
+- The other repository is your own one (green). It will live on your own GitHub account and you are the only one that is uploading to it. Instead of "uploading", we will call this action **push**. You make changes to your files (and create new ones etc.) on your computer, the you push them "remote repository" on GitHub.
+
+The
+
+<!-- Hi,
 welcome to the Critical Data & Visualization class. Please follow the following steps. First, we will set up your work environment for this semester, and then run you through a little JavaScript exercise. In the end, I will show you how to submit things (assignments, poems, memes, etc.) to be shared with me & the rest of the students.
 
 ## Chrome Browser
@@ -24,7 +36,7 @@ welcome to the Critical Data & Visualization class. Please follow the following 
 
 
 
-
+ -->
 
 
 
