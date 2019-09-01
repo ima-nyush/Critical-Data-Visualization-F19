@@ -21,9 +21,10 @@ Content:
   - [File Structure](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#file-structure)
   - [C - O - D - E (build a website)](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#c---o---d---e)
     - various hints and tricks
-  - [Add a README.md file](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-readmemd-file)
-  - [Push your work to GitHub](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#push-it-all-to-your-github)
-  - [Add a link to our Class Wiki](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-link-to-our-class-wiki)
+  - [After you are done](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#after-you-are-done)
+    - [Add a README.md file](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-readmemd-file)
+    - [Push your work to GitHub](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#push-it-all-to-your-github)
+    - [Add a link to our Class Wiki](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-link-to-our-class-wiki)
 
 
 
@@ -81,7 +82,7 @@ Apart from these there is one more we need. It's called **atom-live-server**. To
 
 ![atom-live-server](assets/atom-live-server.png)
 
-Verify that it is installed:
+Verify that it is installed (for you, it might appear at a different location in this drop-down menu):
 
 ![installed](assets/atom-live-server-installed.png)
 
@@ -96,7 +97,7 @@ For the whole semester, you will always work in the same folder (with subfolder 
 
 You only need to do this once in the first week.
 
-First, let's find the repository we want to clone on your GitHub profile. We will tell atom to clone it the descriptor we need is to be found on the right side, copy the HTTPS-link:
+First, let's find the repository we want to clone on your GitHub profile - this should be the "my-cdv-fall19" repository that is on YOUR account (the one your forked just a few minutes ago). In order to tell Atom to clone it, the descriptor we need is to be found on the right side, copy the HTTPS-link:
 
 ![https](assets/https-link.png)
 
@@ -105,15 +106,15 @@ Now open Atom. In the menu bar, click on ``packages > Command Palette > Toggle``
 
 ![clone](assets/clone.png)
 
-A dialogue window opens on the top of the window. Paste the url you copied from Github from the first line and write the first line exactly (just with your username of course) like in below screenshot.
+A dialogue window opens on the top of the window. Paste the url you copied from Github to the input line and fill the second like in below screenshot (just with your username of course).
 
 ![clone2](assets/clone2.png)
 
-Then hit enter, wait a little, and have a look on your Desktop:
+Then click on ``Clone``, wait a little, and have a look on your Desktop:
 
 ![cdv](assets/cdv.png)
 
-Close Atom, and decide where you want to drag this folder to, put it somewhere where it can stay all semester (or maybe you are happy with it on the Desktop - I like my Desktop clean :)
+Quit Atom, and decide where you want to drag this folder to, put it somewhere where it can stay all semester (or maybe you are happy with it on the Desktop - I like my Desktop clean :)
 
 Great, we are very far, everything you will work on takes place in this folder. Follow along as I run you through the basic workflow:
 
@@ -132,7 +133,7 @@ If you did it correctly you will notice two things. 1) Atom displays all the fil
 
 ###### Opening atom-live-server
 
-From now on you will always use atom-live-server. Let's see how it works. With your folder open in Atom, click ``packages>atom-live-server>Start Server``:
+From now on you will always use atom-live-server. Let's see how it works. With your folder open in Atom, click ``Packages>atom-live-server>Start Server``:
 
 ![start server](assets/start-server.png)
 
@@ -140,7 +141,7 @@ Your browser should automatically open (please define Chrome as your default bro
 
 ![live server](assets/live-server.png)
 
-great! this is exciting :D you will be able to see everything you work on here. Mainly you will work on websites in this class, if you work on them while using ``atom-live-server`` you can see changes you makes in real time. In your browser click on the test-page folder I prepared, a website! If you want try making a change to the website ``index.html`` file in Atom, save, then return to your browser. Cool right?
+great! this is exciting :D you will be able to see everything you work on here. Mainly you will work on websites in this class, if you work on them while using ``atom-live-server`` you can see changes you makes in real time. In your browser click on the ``test-page`` folder I prepared, a website! If you want, try making a change to the website ``index.html`` file in Atom, save, then return to your browser. Cool right?
 
 ###### Shutting atom-live-server down
 
@@ -148,11 +149,11 @@ I assume the best way would be to click on ``Packages>atom-live-server>Stop...``
 
 ###### Pushing changes to your remote GitHub repository
 
-Okay, I bet this is new for you and I am excited. Let's assume we work on a project somewhere inside the "my-cdv-fall19" directory. Normally this would probably take place in a subfolder like ``my-cdv-fall19/my-work/week3/data-project``, but for now let's make some changes in ``test-page/index.html`` and save them (``cmd+s``). Look at the files in your sidebar, the are green now:
+Okay, I bet this is new for you and I am excited. Let's assume we work on a project somewhere inside the "my-cdv-fall19" directory. Normally this would probably take place in a subfolder like ``my-cdv-fall19/my-work/week3/data-project``, but for now let's make some changes in ``test-page/index.html`` and save them (``cmd+s``). Look at the files in your sidebar, the are yellow-ish (or maybe green) now:
 
 ![changes](assets/changes.png)
 
-This means that Atom realizes you made changes that have not yet been backed up/pushed to GitHub. Next we want to push this changes. Find the little, tiny "Git" at the bottom right of the window? (If not, lok out for "Git" in the meny bar ``packages`` drop down).
+This means that Atom realizes you made changes that have not yet been backed up/pushed to GitHub. Next we want to push these changes. Find the little, tiny "Git" at the bottom right of the window? (If not, look out for "Git" in the menu bar ``packages`` drop down).
 
 ![git](assets/git.png)
 
@@ -165,11 +166,11 @@ There is **three steps** you need to do every time you **push changes to GitHub*
 2. Commit (add a little messages about the changes you made)
 3. Push (push the changes to Github)
 
-**Stage** | In most cases you can click "Stage all", which will simply stage all the files in which you made changes since your last push. FYI in the box dialogue you can always see those files.
+**Stage changes** | In most cases you can click "Stage all", which will simply stage all the files in which you made changes since your last push. FYI in the box dialogue you can always see those files.
 
 ![unstaged](assets/unstaged.png)
 
-**Commit** | Not how you can now see the files you have staged in the second box. Type a little message describin the changes you made, keep it simple, late at night even a "💤" will do. Best practice is to be specific. One benefit of using GitHub is that you can go backwards in time when your project suddenly doesn't work anymore. You can go back to any commit/push you want. For this, a descriptive commit message is helpful, too.
+**Commit** | Note how you can now see the files you have staged in the second box. In the box that says "commit message", type a little message describing the changes you made, keep it simple, late at night even a "💤" will do. Best practice is to be specific. One benefit of using GitHub is that you can go backwards in time when your project suddenly doesn't work anymore. You can go back to any commit/push you want. For this, a descriptive commit message is helpful, too. When you are done, click the "Commit to master" button.
 
 ![commit](assets/commit.png)
 
@@ -186,7 +187,7 @@ Well, that's it, you made it. You can now use GitHub (and Atom and atom-live-ser
 
 ##### Chrome Developer Tools
 
-The Chrome Browser gives us tool that are **indispensable** when developing websites. If you understand just two features (the "Elements" tab and the "JavaScript Console") and make use of them while coding, you will build great websites very quick. Please make yourself familiar by reading the [Introduction](https://www.bitdegree.org/learn/chrome-developer-tools) and chapters about [Elements](https://www.bitdegree.org/learn/inspect-element) and the [JavaScript Console](https://www.bitdegree.org/learn/javascript-console) on this [page](https://www.bitdegree.org/learn/chrome-developer-tools).
+The Chrome Browser gives us tool that are **indispensable** when developing websites. If you understand just two features (the "Elements" tab and the "JavaScript Console") and make use of them while coding, you will build great websites very quick. Please make yourself familiar by reading the [Introduction](https://www.bitdegree.org/learn/chrome-developer-tools) as well as the chapters about [Elements](https://www.bitdegree.org/learn/inspect-element) and the [JavaScript Console](https://www.bitdegree.org/learn/javascript-console).
 
 ##### File Structure
 
@@ -208,13 +209,13 @@ my-cdv-fall19
 └── ...
 ```
 
-Please start to bring such a structure into place.
+Please start to bring such a structure into place. You can create folders and files within Atom's sidebar.
 
 ##### C - O - D - E
 
 ###### build a website
 
-Finally, making use of the atom-live-server and Chrome Developer Tools you learnt above, build a website in ``my-cdv-fall19/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have separated html, css, js files and behave like this one:
+Finally, making use of the **atom-live-server** and **Chrome Developer Tools** you learnt above, **build a website** in ``my-cdv-fall19/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have **separated html, css, js files** and behave like this one:
 
 ![website](assets/website.gif)
 
@@ -227,11 +228,11 @@ Please build a website like this in pure ("vanilla") JavaScript. Feel free to ad
 
 ###### "it doesn't work!" trick
 
-if things don't behave the way you want/expect them, too, please check if there are errors in the Chrome JavaScript Console (learn above). The error message in itself might give you a hint, and if it doesn't, copy-paste the whole error message into Google - someone else likely encountered similar difficulties and found solutions.
+if things don't behave the way you want/expect them to, please check if there are error messages in the Chrome JavaScript Console (learnt above) - the console should be open by default while you are working. The error message in itself might give you a hint, and if it doesn't, copy-paste the whole error message into Google - someone else likely encountered similar difficulties and found solutions.
 
 ###### great Atom trick
 
-if you use Atom (rather that your Finder) to create new files and give them the right extension (".html")...
+if you use Atom to create new files and give them the right extension (".html")...
 
 ![createfile](assets/createfile.gif)
 
@@ -243,9 +244,12 @@ if you use Atom (rather that your Finder) to create new files and give them the 
 ###### comment your code, please
 In all coding you do this semester, please make sure to use comments in your code explaining what you are doing. Using atom, you can normally highlight whatever you want to "comment out" and hit ``cmd+/``.
 
+
+##### After you are done
+
 ###### Add a README.md file
 
-Your work will look great on GitHub if you ad README.md files to folders. GitHub renders them as the "front page" of a folder - just like you are reading this text right now (it is written on a README.md file, too). The ".md" stands for "Markdown" which is a specific syntax for writing text. Since this might be your first time doing this, simply add the README.md file here:
+Your work will look great on GitHub if you add README.md files to folders. GitHub renders them as the "front page" of a folder - just like you are reading this text right now (it is written on a README.md file, too). The ".md" stands for "Markdown" which is a specific syntax for writing text. Since this might be your first time doing this, simply add the README.md file here:
 
 ```
 my-cdv-fall19
@@ -259,7 +263,7 @@ my-cdv-fall19
 └── ...
 ```
 
-and write something into it. If you had difficulties with the assignment, please describe them there. If you want the README.md file look great on GitHub, please see this [Markdown Cheatsheet]((https://guides.github.com/features/mastering-markdown/)) as well as the Markdown preview option in Atom (``Packages>Markdown Preview>Toggle Preview``).
+and write something into it. If you had difficulties with the assignment, please describe them there. If you want the README.md file look great on GitHub, please see this [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)) as well as the Markdown preview option in Atom (``Packages>Markdown Preview>Toggle Preview``).
 
 
 ###### Push it all to your GitHub
@@ -268,7 +272,7 @@ and write something into it. If you had difficulties with the assignment, please
 
 ###### Add a link to our class Wiki
 
-find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them and paste it on our [https://github.com/leoneckert/cdv-fall19/wiki](https://github.com/leoneckert/cdv-fall19/wiki).
+find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them (this will probably look a bit like ``github.com/your-username/my-cdv-fall19/tree/master/my-work/week1/coding-foundation``) and paste it on our (Class Wiki)[https://github.com/leoneckert/cdv-fall19/wiki](https://github.com/leoneckert/cdv-fall19/wiki).
 
 ## DONE! 😃
 ### This was A LOT. Please be proud.
