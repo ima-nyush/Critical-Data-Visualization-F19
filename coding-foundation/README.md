@@ -1,8 +1,22 @@
 ## Coding Foundation: Setup and Exercises
 
 Content:
-- dd
-  - e
+- [Setup](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#setup)
+  - [GitHub](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#github)
+    - Make a GitHub account
+    - Create your own repository / "fork" mine
+  - [Software](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#software)
+    - Google Chrome
+    - Atom Text Editor
+    - Atom packages
+  - [Working Environment](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#working-environment)
+    - Clone remote repository using Atom
+    - Open your files in Atom
+    - Opening atom-live-server
+    - [Pushing changes to your remote GitHub repository](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#pushing-changes-to-your-remote-github-repository)
+- Coding Exercise(s)
+
+
 
 ### Setup
 
@@ -168,6 +182,8 @@ last things before building something, go through the chrome developer tools tut
 file structure
 
 coding Exercises
+
+add README
 
 push to GitHub
 
