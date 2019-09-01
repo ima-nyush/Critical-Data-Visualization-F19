@@ -1,5 +1,7 @@
 ## Coding Foundation: Setup and Exercises
 
+If things are unclear, please e-mail me at leon.eckert@nyu.edu
+
 Content:
 - [Setup](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#setup)
   - [GitHub](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#github)
