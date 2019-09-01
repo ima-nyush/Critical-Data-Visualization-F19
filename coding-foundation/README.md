@@ -204,11 +204,20 @@ Please start to bring such a structure into place.
 
 ###### build a website
 
-Finally, making use of the atom-live-server you learnt above, build a website in ``my-cdv-fall19/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have separated html, css, js files and behave like this one:
+Finally, making use of the atom-live-server and Chrome Developer Tools you learnt above, build a website in ``my-cdv-fall19/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have separated html, css, js files and behave like this one:
+
+![website](assets/website.gif)
+
+Please build a website like this in pure ("vanilla") JavaScript. Feel free to add you own styling or variations. But keep the functionality: a numerical input with submit button that creates boxes (div elements) and puts them on the page. Give your best and ask the Internet all of your questions, it can help!
+
+###### keyword hints
+
+``getElementById``, ``createElement``, ``appendChild``, ``flexbox``, ``for-loop``, ``addEventListener``, ``function``
 
 
+###### "it doesn't work!" trick
 
-
+if things don't behave the way you want/expect them, too, please check if there are errors in the Chrome JavaScript Console (learn above). The error message in itself might give you a hint, and if it doesn't, copy-paste the whole error message into Google - someone else likely encountered similar difficulties and found solutions.
 
 ###### great Atom trick
 
@@ -221,84 +230,35 @@ if you use Atom (rather that your Finder) to create new files and give them the 
 ![autocomplete](assets/autocomplete.gif)
 
 
-
 ###### comment your code, please
 In all coding you do this semester, please make sure to use comments in your code explaining what you are doing. Using atom, you can normally highlight whatever you want to "comment out" and hit ``cmd+/``.
 
-<!-- ---
+###### Add a README.md file
+
+Your work will look great on GitHub if you ad README.md files to folders. GitHub renders them as the "front page" of a folder - just like you are reading this text right now (it is written on a README.md file, too). The ".md" stands for "Markdown" which is a specific syntax for writing text. Since this might be your first time doing this, simply add the README.md file here:
+
+```
+my-cdv-fall19
+├── my-work
+│   ├── week1
+│   │   ├── ...
+│   │   └── coding-foundation
+│   │       ├── ... <----- the website you just built
+│   │       └── README.md  <-------- Add this file
+│   └── ...
+└── ...
+```
+
+and write something into it. If you had difficulties with the assignment, please describe them there. If you want the README.md file look great on GitHub, please see this [Markdown Cheatsheet]((https://guides.github.com/features/mastering-markdown/)) as well as the Markdown preview option in Atom (``Packages>Markdown Preview>Toggle Preview``).
 
 
-last things before building something, go through the chrome developer tools tutorial.
+###### Push it all to your GitHub
 
-file structure
+[As learnt above](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#pushing-changes-to-your-remote-github-repository)
 
-coding Exercises
+###### Add a link to our class Wiki
 
-add README
+find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them and paste it on our [https://github.com/leoneckert/cdv-fall19/wiki](https://github.com/leoneckert/cdv-fall19/wiki).
 
-push to GitHub
-
-find link
-
-submit to my wiki
-
-done -->
-
-
-
-
-
-
-
-
-
-
-
-<!--##Create a space-->
-
-<!--To start off, please create a directory structure fo everything we will do this semester. Choose a place on your computer that you don't expect to change later on. -->
-
-<!--Create the directories like this:-->
-
-<!--```-->
-<!--cdv-->
-<!--├── coding-foundation-->
-<!--│   └── page1-->
-<!--├── lab1-->
-<!--│   ├── page1-->
-<!--│   └── page2-->
-<!--└── lab2-->
-<!--```-->
-
-<!--##Text editor-->
-
-<!--In this class we will be using the [Atom Text Editor](https://atom.io) to write code. Unless you feel strongly about a different one, I recommend using the same. Please download it if you don't have it already. -->
-
-<!--##Build an html page-->
-
-<!--In `cdv/coding-foundation/page1`, build a simple html page. Make sure to add some element and some styling. If you want, write some JavaScript (more will follow later).-->
-
-<!--I recommend structuring the page like thisi:-->
-
-
-<!--```-->
-<!--cdv-->
-<!--├── coding-foundation-->
-<!--│   └── page1-->
-<!--│       ├── css-->
-<!--│       │   └── styles.css-->
-<!--│       ├── index.html-->
-<!--│       └── js-->
-<!--│           └── myscript.js-->
-<!--└── ...-->
-<!--```-->
-
-<!--##Serving your website-->
-
-<!--As you were working on the page, how did you see it? If you opened it with you browser, chances are it says something like `file://...` or `/Users/your-name/...` in the URL bar, does it?-->
-<!--It this class, we will always be serving the pages we are working on via a "localhost server". If you have never heard of this before, read up on it for 20 minutes (but no longer). The easiest way to use a localhost for our pruposes is an package we can download for atom. It's called *atom-live-server*; please find out how to install and use it, this will be a must-know.-->
-
-
-<!--##Chrome Developer Tools-->
-
-<!--Unless you feel strongly for a different browser, please use Google Chrome for class. We will be using the Chrome Developer tools all the time. Make yourself familiar by reading the [Introduction](https://www.bitdegree.org/learn/chrome-developer-tools) and chapters about [Elements](https://www.bitdegree.org/learn/inspect-element) and the [JavaScript Console](https://www.bitdegree.org/learn/javascript-console) on this [page](https://www.bitdegree.org/learn/chrome-developer-tools).-->
+## DONE! 😃
+### This was A LOT. Please be proud.
