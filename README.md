@@ -45,7 +45,7 @@ Due Monday (2019/09/09):
   - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
   - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
   - other services (search "Reply All Crime Machine")
-- Read **Critical Questions for Big Data** by danah boyd and Kate Crawford. This version has some intentional notes that will help you. Please read the whole text despite below prompts being pointed at specific sections. There is no right or wrong, **what counts more than anything is your own opinion**. For each prompt, write no more than a short paragraph:
+- Read **Critical Questions for Big Data** by danah boyd and Kate Crawford. [This version](readings/boyd_crawford_2012.pdf) has some intentional notes that will help you. Please read the whole text despite below prompts being pointed at specific sections. There is no right or wrong, **what counts more than anything is your own opinion**. For each prompt, write no more than a short paragraph:
   - Introduction and Chapter 2
     - Why does Bowker say "'*Raw data is both and oxymoron and a bad idea*'" ? (pp. 663)
   - Section 1 (pp. 665)
