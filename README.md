@@ -3,11 +3,28 @@
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
 #### Content
-- Week1 - Mapping the Landscape
+- Week 1 - Mapping the Landscape
+- Week 2 - Data Infrastructures
+- Week 3 - Bias
+- Week 4 - Prediction and Uncertainty
+- **Fall Break**
+- Week 5 - Concept Review
+- Week 6 - Data Zine Project Presentations 🎉
+- Week 7 - Data Ethics
+- Week 8 - Concept Review
+- Week 9 - Algorithmic decision-making & automating inequality
+- Week 10 - Data Story: Work in Progress Presentations 📚
+- Week 11 - Surveillance Capitalism
+- Week 12 - Concept Review
+- Week 13 - Activism, Leaks and Whistleblowers
+- Week 14 - Data Story Project Presentations 🥂
 
 
 ## WEEK 1
-### Mapping the Landscape
+
+![mapping the landscape](other/assets/week1.jpg)
+
+### Monday Class
 
 Introductions.
 
@@ -38,7 +55,14 @@ Due Monday (2019/09/09):
   - Section 5 (pp. 671)
     - If you don't need to login to obtain certain data, then it is public and free to use. Or isn't it? Please share your opinion.
   - Section 6
-    - No prompts here, but a very well written chapter that is relevant to everything we will be talking about this semester. Please enjoy. 
+    - No prompts here, but a very well written chapter that is relevant to everything we will be talking about this semester. Please enjoy.
+
+###### Optional/Related readings and resources:
+
+*\"Raw Data" is an Oxymoron* (Introduction), Gitelman L (2013)  (online version accessible through NYU library)
+*Data infrastructure literacy*, Gray J, Gerlitz C, Bounegru L (2018)
+
+### Wednesday Lab
 
 ## WEEK 2
 ## WEEK 3
