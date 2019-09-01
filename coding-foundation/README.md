@@ -174,6 +174,57 @@ Well, that's it, you made it. You can now use GitHub (and Atom and atom-live-ser
 ### Coding Exercise
 
 
+##### Chrome Developer Tools
+
+The Chrome Browser gives us tool that are **indispensable** when developing websites. If you understand just two features (the "Elements" tab and the "JavaScript Console") and make use of them while coding, you will build great websites very quick. Please make yourself familiar by reading the [Introduction](https://www.bitdegree.org/learn/chrome-developer-tools) and chapters about [Elements](https://www.bitdegree.org/learn/inspect-element) and the [JavaScript Console](https://www.bitdegree.org/learn/javascript-console) on this [page](https://www.bitdegree.org/learn/chrome-developer-tools).
+
+##### File Structure
+
+It will make your life easier if you organize your files well. Here is the structure I recommend for you ``my-cdv-fall19`` directory:
+
+```
+my-cdv-fall19
+├── my-work
+│   ├── week1
+│   │   ├── coding-foundation
+│   │   ├── page1
+│   │   └── page2
+│   ├── week2
+│   │   ├── page1
+│   │   └── ...
+│   ├── README.md
+│   └── ...
+├── README.md
+└── ...
+```
+
+Please start to bring such a structure into place.
+
+##### C - O - D - E
+
+###### build a website
+
+Finally, making use of the atom-live-server you learnt above, build a website in ``my-cdv-fall19/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have separated html, css, js files and behave like this one:
+
+
+
+
+
+###### great Atom trick
+
+if you use Atom (rather that your Finder) to create new files and give them the right extension (".html")...
+
+![createfile](assets/createfile.gif)
+
+...then Atom will give you very useful auto-complete benefits saving you a ton of work:
+
+![autocomplete](assets/autocomplete.gif)
+
+
+
+###### comment your code, please
+In all coding you do this semester, please make sure to use comments in your code explaining what you are doing. Using atom, you can normally highlight whatever you want to "comment out" and hit ``cmd+/``.
+
 <!-- ---
 
 

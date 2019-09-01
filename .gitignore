@@ -1,20 +1,23 @@
-# hi, below I have populated your .gitignore file 
-# with a lot of common filenames that, if they show up, 
-# you likely want to ignore. 
-# You can add you own file or folder names here if 
+# hi, below I have populated your .gitignore file
+# with a lot of common filenames that, if they show up,
+# you likely want to ignore.
+# You can add you own file or folder names here if
 # you decide you do NOT want to upload something to GitHub
-# (e.g. to protect sensitive information or because a 
+# (e.g. to protect sensitive information or because a
 # file is really large (we don't want huge files on github))
 
 # for example, to prevent anything in a folder named "ignore-this"
 # (and the folder itself) from being uploaded,
-# we simply write it as I do on the next like: 
+# we simply write it as I do on the next like:
 
 **ignore-this
 
-# the "**" means that it does not matter where in your 
-# project the ignore-this folder shows up, 
+# the "**" means that it does not matter where in your
+# project the ignore-this folder shows up,
 # it will always be ignored
+
+
+__drafts
 
 ------
 
