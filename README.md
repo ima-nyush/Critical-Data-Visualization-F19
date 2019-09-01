@@ -3,7 +3,7 @@
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
 #### Content
-- Week 1 - Mapping the Landscape
+- Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
 - Week 2 - Data Infrastructures
 - Week 3 - Bias
 - Week 4 - Prediction and Uncertainty
