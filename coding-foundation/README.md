@@ -14,7 +14,15 @@ Content:
     - Open your files in Atom
     - Opening atom-live-server
     - [Pushing changes to your remote GitHub repository](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#pushing-changes-to-your-remote-github-repository)
-- Coding Exercise(s)
+- [Coding Exercise(s)](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#coding-exercise)
+  - [Chrome Developer Tools](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#chrome-developer-tools)
+  - [File Structure](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#file-structure)
+  - [C - O - D - E (build a website)](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#c---o---d---e)
+    - various hints and tricks
+  - [Add a README.md file](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-readmemd-file)
+  - [Push your work to GitHub](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#push-it-all-to-your-github)
+  - [Add a link to our Class Wiki](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#add-a-link-to-our-class-wiki)
+
 
 
 
