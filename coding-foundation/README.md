@@ -1,5 +1,13 @@
 ## Coding Foundation: Setup and Exercises
 
+Content:
+- dd
+  - e
+
+### Setup
+
+##### Github
+
 This semester you will be maintaining a Github repository of you own to backup and share your work. Think of a repository as an online backup copy of your local (on your computer) project folder. The idea is this:
 
 ![push](assets/push.png)
@@ -7,6 +15,8 @@ This semester you will be maintaining a Github repository of you own to backup a
 As you can see above, there will be two repositories:
 - One is the one I am maintaining (red). That is also the one on which you are reading this text right now. Here you will get information and resources throughout the Semester.
 - The other repository is your own one (green). It will live on your own GitHub account and you are the only one that is uploading to it. Instead of "uploading", we will call this action **push**. You make changes to your files (and create new ones etc.) on your computer, then you push them to your "remote repository" on GitHub.
+
+
 
 The following steps will guide you through setting all this up. Please follow carefully:
 
@@ -23,7 +33,9 @@ After some seconds you will be redirected to a page that looks almost the same, 
 
 ![forked](assets/forked.png)
 
-#### Software
+Done with GitHub for now!
+
+##### Software
 
 The order of these steps is not fully worked out :) Now that we have a repository, let's make sure we have the software we will be working with.
 
@@ -52,11 +64,13 @@ Verify that it is installed:
 
 Great! We have achieved a lot. Let's go on!
 
-#### Working environment
+##### Working environment
 
 For the whole semester, you will always work in the same folder (with subfolder of course). This folder exists already, but only online, in your GitHub repository. Now we will download it, or as we call it in the context of GitHub, we **clone** your repository to you local machine (aka your computer).
 
 ###### Clone remote repository using Atom
+
+You only need to do this once in the first week.
 
 First, let's find the repository we want to clone on your GitHub profile. We will tell atom to clone it the descriptor we need is to be found on the right side, copy the HTTPS-link:
 
@@ -78,6 +92,9 @@ Then hit enter, wait a little, and have a look on your Desktop:
 Close Atom, and decide where you want to drag this folder to, put it somewhere where it can stay all semester (or maybe you are happy with it on the Desktop - I like my Desktop clean :)
 
 Great, we are very far, everything you will work on takes place in this folder. Follow along as I run you through the basic workflow:
+
+
+##### Working on your projects
 
 ###### Open your files in Atom (the right way(s))
 I recommend to use one of two ways to open your class folder in Atom.
@@ -124,18 +141,15 @@ There is **three steps** you need to do every time you **push changes to GitHub*
 2. Commit (add a little messages about the changes you made)
 3. Push (push the changes to Github)
 
-**Stage**
-In most cases you can click "Stage all", which will simply stage all the files in which you made changes since your last push. FYI in the box dialogue you can always see those files.
+**Stage** | In most cases you can click "Stage all", which will simply stage all the files in which you made changes since your last push. FYI in the box dialogue you can always see those files.
 
 ![unstaged](assets/unstaged.png)
 
-**Commit**
-Not how you can now see the files you have staged in the second box. Type a little message describin the changes you made, keep it simple, late at night even a "💤" will do. Best practice is to be specific. One benefit of using GitHub is that you can go backwards in time when your project suddenly doesn't work anymore. You can go back to any commit/push you want. For this, a descriptive commit message is helpful, too.
+**Commit** | Not how you can now see the files you have staged in the second box. Type a little message describin the changes you made, keep it simple, late at night even a "💤" will do. Best practice is to be specific. One benefit of using GitHub is that you can go backwards in time when your project suddenly doesn't work anymore. You can go back to any commit/push you want. For this, a descriptive commit message is helpful, too.
 
 ![commit](assets/commit.png)
 
-**Push**
-The last step is to push it all up to GitHub. Click ``Push`` at the bottom. Then, check your GitHub repository online. Are the changes there? 🤞🤞🤞🤞
+**Push** | The last step is to push it all up to GitHub. Click ``Push`` at the bottom. Then, check your GitHub repository online. Are the changes there? 🤞🤞🤞🤞
 
 ![push2](assets/push2.png)
 
@@ -143,6 +157,25 @@ The last step is to push it all up to GitHub. Click ``Push`` at the bottom. Then
 Well, that's it, you made it. You can now use GitHub (and Atom and atom-live-server). This is very cool!!!
 
 
+### Coding Exercise
+
+
+<!-- ---
+
+
+last things before building something, go through the chrome developer tools tutorial.
+
+file structure
+
+coding Exercises
+
+push to GitHub
+
+find link
+
+submit to my wiki
+
+done -->
 
 
 
@@ -151,33 +184,6 @@ Well, that's it, you made it. You can now use GitHub (and Atom and atom-live-ser
 
 
 
-<!-- Hi,
-welcome to the Critical Data & Visualization class. Please follow the following steps. First, we will set up your work environment for this semester, and then run you through a little JavaScript exercise. In the end, I will show you how to submit things (assignments, poems, memes, etc.) to be shared with me & the rest of the students.
-
-## Chrome Browser
-
-## Text Editor
-
-## GitHub Student Account
-
-## Fork the class repo
-
-## Atom Packages
-
-## Clone the repo through Atom
-
-## Coding exercise
-
-
-
-## Submitting things (in this case, your coding exercise)
-
-
-
-
-
-
- -->
 
 
 
