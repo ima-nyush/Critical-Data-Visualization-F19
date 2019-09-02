@@ -6,6 +6,17 @@ Welcome! This page will be filled with material and links throughout the Semeste
 - Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
 - Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
 
+#### Course Description
+Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
+
+Decisions based on algorithms affect society at large whether it’s changing the way we transport and distribute goods, or influencing the things we buy, the news we read or even the people we date. The *world* that algorithms *see* is data. For the average person, however, data is seldom more than an abstract idea.
+
+So what exactly is data? How is value extracted from it? And why should we care? How can we ethically balance the positive uses of data-driven systems with the threats they pose to discriminate and infringe basic human rights?
+This class seeks to untangle some of these issues practically and theoretically.
+
+[Course Overview and Learning Outcomes](https://github.com/leoneckert/cdv-fall19#course-overview-and-learning-outcomes)
+
+
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
 - Week 2 - Data Infrastructures
@@ -84,3 +95,21 @@ Due Monday (2019/09/09):
 ## WEEK 12
 ## WEEK 13
 ## WEEK 14
+
+------------
+#### Course Overview and Learning Outcomes
+The overarching goal of this class is for students to gain the tools and the comfort to think critically about the ways data is utilized in the ever growing technological landscape we are immersed in.
+With this in mind, the class is split in two weekly sessions: a theoretical class and a practical lab.
+
+The classes include lectures introducing contemporary theorists, artists, groups, and in-class discussions or exercises. Four themes guiding this exploration are “Data, Information, Knowledge”, “Data Bias”, “Data Ethics” and “Power, Control, Access”.
+In the weekly lab, students will learn the fundamentals of web-based data visualization using JavaScript. The purpose of this is to understand what data feels like through hands-on experimentation and what data says or doesn’t say by rendering the information it carries visually.
+
+Upon completion of this course, students will be able to:
+- **map** actors, their roles and relations within a broader data infrastructure
+- **identify** problematics of "datafication" and **generate** ideas for response
+- **identify** various visions, values and cultures inherent to datasets
+- **build** data visualizations for the web
+- **build** their own datasets
+- **make use** of data APIs and scraped data
+- **visually** communicate information pertaining to a given dataset
+- **critique** their own work and others' constructively
