@@ -45,7 +45,21 @@ Introductions.
 
 Group Activity: Mapping the subjects of this course.
 
+Data is never “raw”, but always cooked.
+
 Data and Data Infrastructures.
+- looking beyond data as a resource
+- data is performative
+
+“data”
+- from latin (‘given’)
+  - how about "capta" (== ‘taken’)?*
+- used in singular and plural
+
+data has no truth
+
+
+\*J Drucker
 
 #### Assignments:
 
