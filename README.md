@@ -3,7 +3,9 @@
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
 - Instructor: Leon Eckert, leon.eckert@nyu.edu
-- Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
+- Class Times: Mondays & Wednesdays, 1:15pm-2:30pm\
+- Credits: 4
+- Room: 824
 - Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
 
 #### Course Description
@@ -45,20 +47,16 @@ Introductions.
 
 Group Activity: Mapping the subjects of this course.
 
-Data is never “raw”, but always cooked.
-
-Data and Data Infrastructures.
-- looking beyond data as a resource
-- data is performative
-
-“data”
-- from latin (‘given’)
-  - how about "capta" (== ‘taken’)?*
-- used in singular and plural
-
-data has no truth
-
-
+Take-aways:
+- Data is never “raw”, but always cooked.
+- Data and Data Infrastructures.
+  - looking beyond data as a resource
+  - data is performative
+- “data”
+  - from latin (‘given’)
+    - how about "capta" (== ‘taken’)?*
+  - used in singular and plural
+- data has no truth
 \*J Drucker
 
 #### Assignments:
@@ -74,7 +72,7 @@ Due Monday (2019/09/09):
   - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
   - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
   - other services (search "Reply All Crime Machine")
-- Read **Critical Questions for Big Data** by danah boyd and Kate Crawford. [This version](readings/boyd_crawford_2012.pdf) has some intentional notes that will help you. Please read the whole text despite below prompts being pointed at specific sections. There is no right or wrong, **what counts more than anything is your own opinion**. For each prompt, write no more than a short paragraph:
+- Read [**Critical Questions for Big Data**](readings/boyd_crawford_2012.pdf) by danah boyd and Kate Crawford. The linked version has some intentional notes that will help you. Please read the whole text despite below prompts being pointed at specific sections. There is no right or wrong, **what counts more than anything is your own opinion**. For each prompt, write no more than a short paragraph:
   - Introduction and Chapter 2
     - Why does Bowker say "'*Raw data is both and oxymoron and a bad idea*'" ? (pp. 663)
   - Section 1 (pp. 665)
@@ -88,9 +86,11 @@ Due Monday (2019/09/09):
 
 ###### Optional/Related readings and resources:
 
-*\"Raw Data" is an Oxymoron* (Introduction), Gitelman L (2013)\*
-*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact), Rosenberg D\*
-*Data infrastructure literacy*, Gray J, Gerlitz C, Bounegru L (2018)
+[*\"Raw Data" is an Oxymoron* (Introduction)](https://mitpress.mit.edu/books/raw-data-oxymoron), Gitelman L (2013)\*
+[*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact)](https://mitpress.mit.edu/books/raw-data-oxymoron), Rosenberg D\*
+[*Data infrastructure literacy*](https://journals.sagepub.com/doi/10.1177/2053951718786316), Gray J, Gerlitz C, Bounegru L (2018)
+[*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
+
 
 *online version accessible through NYU library
 
