@@ -2,9 +2,9 @@
 
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
-Instructor: Leon Eckert, leon.eckert@nyu.edu
-Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
-Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
+- Instructor: Leon Eckert, leon.eckert@nyu.edu
+- Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
+- Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
 
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
