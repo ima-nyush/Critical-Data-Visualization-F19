@@ -2,6 +2,10 @@
 
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
+Instructor: Leon Eckert, leon.eckert@nyu.edu
+Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
+Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
+
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
 - Week 2 - Data Infrastructures
@@ -59,8 +63,11 @@ Due Monday (2019/09/09):
 
 ###### Optional/Related readings and resources:
 
-*\"Raw Data" is an Oxymoron* (Introduction), Gitelman L (2013)  (online version accessible through NYU library)
+*\"Raw Data" is an Oxymoron* (Introduction), Gitelman L (2013)\*
+*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact), Rosenberg D\*
 *Data infrastructure literacy*, Gray J, Gerlitz C, Bounegru L (2018)
+
+*online version accessible through NYU library
 
 ### Wednesday Lab
 
