@@ -99,12 +99,23 @@ Due Monday (2019/09/09):
 
 Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1)
 
+Content:
 - how a browser meets a website
 - how a browser sees html
 - css and js, endless metaphors
 - review homework
 - review JavaScript data structures
-- collect data & mini data viz using javascript
+- collect data using Google Forms
+- Mini data visualization using javascript
+
+#### Assignments:
+
+Due this Wednesday (2019/09/11):
+- Create a Google Form collecting data of the "linear scale" type. ([Like we did in this week's Lab](https://forms.gle/F6cSqr8Rqmbqm7JQA)) about a subject of your choice.
+- use the techniques [used in the lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1) to
+  - export the data in `json` format
+  - transform it to an array with average values
+  - build a bar graph using JavaScript
 
 
 

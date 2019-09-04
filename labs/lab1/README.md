@@ -6,7 +6,8 @@ todays agenda:
 - css and js, endless metaphors
 - review homework
 - review JavaScript data structures
-- collect data & mini data viz using javascript
+- Collect data with Google Forms
+- Mini data visualization using JavaScript
 
 ### browser, meet website
 ### how a browser sees html
