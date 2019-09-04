@@ -2,15 +2,15 @@
 
 [Quick Link to **How to collect data using Google Forms**](https://github.com/leoneckert/cdv-fall19/tree/master/labs/collect-data-google-form)
 
-todays agenda:
-- how a browser meets a website
-- how a browser sees html
-- css and js, endless metaphors
-- review homework
-- review JavaScript data structures
-- Collect data with Google Forms
-- Transform Data
-- Mini data visualization using JavaScript
+#### todays agenda:
+- [how a browser meets a website](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#slides)
+- [how a browser sees html](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#slides)
+- [css and js, endless metaphors](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#slides)
+- [review homework](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#review-homework)
+- [review JavaScript data structures](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#review-javascript-data-structures)
+- [Collect data with Google Forms](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#collect-data-with-google-forms)
+- [Transform Data](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#transform-data)
+- [Mini data visualization using JavaScript](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#mini-data-visualization-using-javascript)
 
 ### slides
 
@@ -267,6 +267,6 @@ will return
 
 ### Mini data visualization using JavaScript
 
-In this folder you find the code from what we did in class. The resulting website looks like this:
+In this folder you find [the code](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1/in-class-website) from what we did in class. The resulting website looks like this:
 
 ![website](assets/website.png)
