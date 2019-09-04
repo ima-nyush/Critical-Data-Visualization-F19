@@ -1,5 +1,7 @@
 ## Lab 1 - collecting dataset
 
+[Quick Link to **How to collect data using Google Forms**](https://github.com/leoneckert/cdv-fall19/tree/master/labs/collect-data-google-form)
+
 todays agenda:
 - how a browser meets a website
 - how a browser sees html
@@ -7,17 +9,19 @@ todays agenda:
 - review homework
 - review JavaScript data structures
 - Collect data with Google Forms
+- Transform Data
 - Mini data visualization using JavaScript
 
-### browser, meet website
-### how a browser sees html
-### css and js, endless metaphors
+### slides
+
+Here are the [slides](https://docs.google.com/presentation/d/1bCaLjRj445Sbn7r5qznr8fm3PZxeMC3zev3y6WOXlhM/edit?usp=sharing) from today that include **browser, meet website**, **how a browser sees html** and **css and js, endless metaphors**
+
 ### review homework
 the strategy* to solve the [exercise](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation#build-a-website) from this weeks [Coding Foundation Exercise](https://github.com/leoneckert/cdv-fall19/tree/master/coding-foundation) is:
 1. link css and js
 2. create box manually (html & css)
 3. recreate box with js (createElement, className, appendChild)
-4. create box on button click (getElementById, addEventListener)
+4. create box on button click (function, getElementById, addEventListener)
 5. create three boxes on button click (for loop)
 6. read value of input (getElementById, value)
 
@@ -33,7 +37,7 @@ It ends with [this exercise](http://cdv.leoneckert.com/json-nav) on navigating a
 
 ### Collect data with Google Forms
 
-In class I will demonstrate how to use [Google Forms](https://docs.google.com/forms/) to collect data and then turn it into a format that is easy to work with using [this trick](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html).
+[Here is a tutorial](https://github.com/leoneckert/cdv-fall19/tree/master/labs/collect-data-google-form) guiding you through using [Google Forms](https://docs.google.com/forms/) to collect data and then turn it into a format that is easy to work with using [this trick](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html).
 
 Today, we will all use the same dataset collected using this method. It is here for you to **copy and paste** (will update in class):
 
@@ -159,7 +163,7 @@ Today, we will all use the same dataset collected using this method. It is here 
 ]
 ```
 
-### Mini data visualization using JavaScript
+### Transform Data
 
 Below is a function to transform the dataset we get from the Google Sheet. It's heavily commented for better understanding.
 
@@ -256,3 +260,9 @@ will return
 
 ]
 ```
+
+### Mini data visualization using JavaScript
+
+In this folder you find the code from what we did in class. The resulting website looks like this:
+
+![website](assets/website.png)

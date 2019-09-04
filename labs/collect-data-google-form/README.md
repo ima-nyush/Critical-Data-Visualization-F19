@@ -65,3 +65,7 @@ let data = [
 ```
 
 Now you are ready to use this data in your code!
+
+### Handy function
+
+You can find a function that helps you transform the data into a different structure that you might be interested at the bottom of [Lab1](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1#transform-data)
