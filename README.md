@@ -112,10 +112,12 @@ Content:
 
 Due this Wednesday (2019/09/11):
 - Create a Google Form collecting data of the "linear scale" type. ([Like we did in this week's Lab](https://forms.gle/F6cSqr8Rqmbqm7JQA)) about a subject of your choice.
+- collect responses from at least 10 people (e.g. send it to people in this class room (I can help distribute))
 - use the techniques [used in the lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1) to
   - export the data in `json` format
   - transform it to an array with average values
   - build a bar graph using JavaScript
+- the last two points can be worked on simultaneously (you don't need all the responses to start working on the code)
 
 
 
