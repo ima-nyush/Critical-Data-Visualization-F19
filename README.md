@@ -97,12 +97,16 @@ Due Monday (2019/09/09):
 
 ### Wednesday Lab
 
+Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1)
+
 - how a browser meets a website
 - how a browser sees html
 - css and js, endless metaphors
 - review homework
 - review JavaScript data structures
 - collect data & mini data viz using javascript
+
+
 
 ## WEEK 2
 ## WEEK 3
