@@ -64,7 +64,7 @@ Take-aways:
 Due this Wednesday (2019/09/04):
 - Do this assignment first (strongly recommended)
 -  We will spend 50% of our time in this course coding. Having a shared foundation for this is **extremely important**. I will always be there to support and assist you with problems you encounter. For now, please work your way through [Coding Foundation: Setup and Exercises](coding-foundation) and submit your work in the end.
-- Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version. 
+- Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version.
 
 Due Monday (2019/09/09):
 - Listen to two parts of **Reply All's 'The Crime Machine' Podcast**. This is both super entertaining AND relevant next class. You can listen to the podcast via
@@ -96,6 +96,13 @@ Due Monday (2019/09/09):
 *online version accessible through NYU library
 
 ### Wednesday Lab
+
+- how a browser meets a website
+- how a browser sees html
+- css and js, endless metaphors
+- review homework
+- review JavaScript data structures
+- collect data & mini data viz using javascript
 
 ## WEEK 2
 ## WEEK 3
