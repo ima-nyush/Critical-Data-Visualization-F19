@@ -177,6 +177,10 @@ function averageData(data){
   // assuming each data point has the same
   // keys/categories, we extract an array of them from the
   // first data point in the array
+  // in class we changed it to the last element instead
+  // as the first one did not have all the categories filled out
+  // there is more thorough ways to do this, but for out purposes
+  // now, this will be enough
   let keys = Object.keys(data[0]);
   // now we loop over the keys/categories
   for(let i = 0; i < keys.length; i++){
