@@ -37,7 +37,7 @@ The Google Sheet will open automatically
 
 ### Exporting JSON datas
 
-After you have collected some data and you want to start writing the code to visualize it, you can follow [these instructions](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.htm) on how to export the data in the JSON format.
+After you have collected some data and you want to start writing the code to visualize it, you can follow [these instructions](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) on how to export the data in the JSON format.
 
 After you inserted the script as described in the linked instructions, a new button will appear in your Sheet's toolbar that says ``Export JSON``. When you click it for the first time you will need to authenticate and accept that the script you are using can access the content of your Sheet.
 
