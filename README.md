@@ -3,7 +3,7 @@
 Welcome! This page will be filled with material and links throughout the Semester. I recommend you **bookmark it now**.
 
 - Instructor: Leon Eckert, leon.eckert@nyu.edu
-- Class Times: Mondays & Wednesdays, 1:15pm-2:30pm\
+- Class Times: Mondays & Wednesdays, 1:15pm-2:30pm
 - Credits: 4
 - Room: 824
 - Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
@@ -21,7 +21,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
-- Week 2 - Data Infrastructures
+- Week 2 - [Data Infrastructures](https://github.com/leoneckert/cdv-fall19#week-2)
 - Week 3 - Bias
 - Week 4 - Prediction and Uncertainty
 - **Fall Break**
@@ -87,10 +87,10 @@ Due Monday (2019/09/09):
 
 ###### Optional/Related readings and resources:
 
-[*\"Raw Data" is an Oxymoron* (Introduction)](https://mitpress.mit.edu/books/raw-data-oxymoron), Gitelman L (2013)\*
-[*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact)](https://mitpress.mit.edu/books/raw-data-oxymoron), Rosenberg D\*
-[*Data infrastructure literacy*](https://journals.sagepub.com/doi/10.1177/2053951718786316), Gray J, Gerlitz C, Bounegru L (2018)
-[*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
+- [*\"Raw Data" is an Oxymoron* (Introduction)](https://mitpress.mit.edu/books/raw-data-oxymoron), Gitelman L (2013)\*
+- [*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact)](https://mitpress.mit.edu/books/raw-data-oxymoron), Rosenberg D\*
+- [*Data infrastructure literacy*](https://journals.sagepub.com/doi/10.1177/2053951718786316), Gray J, Gerlitz C, Bounegru L (2018)
+- [*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
 
 
 *online version accessible through NYU library
@@ -126,6 +126,53 @@ Due this Wednesday (2019/09/11):
 
 
 ## WEEK 2
+
+![data infrastructures](other/assets/week2.jpg)
+
+### Monday Class
+
+Reading discussion
+
+Mapping Data Infrastructures
+  test!
+
+Announcement: Data Zine
+  todo sample projects!
+
+Introduce Group Research Assignments
+
+#### Assignments:
+
+Due Wednesday (2019/09/11):
+- Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/).
+
+Due Monday (2019/09/16):
+  - DATA ZINE PROJECT
+    - brainstorm today which data to collect*
+    - start collecting data at midnight (at the very start of September 9th)
+    - bring your collected data next week
+  - Watch (and read) ProPublica's "Breaking the Black Box" video series
+    1. [What Facebook Knows About You](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+    2. [When Algorithms Decide What You Pay](https://www.propublica.org/article/breaking-the-black-box-when-algorithms-decide-what-you-pay)
+    3. [When Machines Learn by Experimenting on Us](https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us)
+    4. [How Machines Learn to Be Racist](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
+  - for **GROUP 1 only**:
+    - make yourself deeply familiar with the subject and reading of your research
+    - facilitate a discussion:
+      1. present your research. focus specifically on what you think the class needs to know to actively take part in the discussion
+      2. design a discussion format and facilitate it in class
+    - arrange a meeting with me to catch up on your work (how about Thursday or Friday?)
+
+*tips:
+- use **Dear Data** ([link1](http://giorgialupi.com/dear-data), [link1](http://www.stefanieposavec.com/dear-data-about)) as an inspiration
+- what to collect? anything, the more detail the better.
+- don’t just decide on what general subject to collect, but make a plan for the actual measurements (think of Dear Data)
+- you can use a notebook, or spreadsheet, or build you own Google Form that you open up every evening/now and then/hour/minute.
+- set an alarm for measurements.
+
+###### Optional/Related readings and resources:
+
+
 ## WEEK 3
 ## WEEK 4
 ## WEEK 5
