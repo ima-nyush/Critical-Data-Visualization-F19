@@ -157,7 +157,7 @@ Due Monday (2019/09/16):
     3. [When Machines Learn by Experimenting on Us](https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us)
     4. [How Machines Learn to Be Racist](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
   - for **GROUP 1 only**:
-    - make yourself deeply familiar with the subject and reading of your research
+    - make yourself deeply familiar with the [subject and reading](https://github.com/leoneckert/cdv-fall19/tree/master/group-research/bias) of your research
     - facilitate a discussion:
       1. present your research. focus specifically on what you think the class needs to know to actively take part in the discussion
       2. design a discussion format and facilitate it in class
