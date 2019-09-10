@@ -139,7 +139,14 @@ Mapping Data Infrastructures
 Announcement: Data Zine
   todo sample projects!
 
-Introduce Group Research Assignments
+Introduce Group Research Assignments. The teams are
+- Esther & Robert
+- Yiqi, Philis & Cindy
+- Jerry & Jinzhong
+- Kennedy & Sarah
+- Aleksandra?
+- Jannie?
+- Thomas?
 
 #### Assignments:
 
