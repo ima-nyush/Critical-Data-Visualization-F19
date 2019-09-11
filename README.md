@@ -142,11 +142,11 @@ Announcement: Data Zine
 Introduce Group Research Assignments. The teams are
 - Esther & Robert
 - Yiqi, Philis & Cindy
-- Jerry & Jinzhong
+- Jerry, Kevin & Jinzhong
 - Kennedy & Sarah
-- Aleksandra?
-- Jannie?
-- Thomas?
+- Aleksandra, Jannie & Thomas
+
+###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
 
 #### Assignments:
 
@@ -178,6 +178,37 @@ Due Monday (2019/09/16):
 - set an alarm for measurements.
 
 ###### Optional/Related readings and resources:
+
+### Wednesday Lab
+
+Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab2)
+
+Content:
+- What is a library?
+- Hi, D3!
+  - pixels vs. SVG
+  - examples
+  - Data Driven Documents
+- What you see when you see D3
+- Something dot something dot something semicolon
+- Code
+  - Download working files
+  - Create the "canvas" (it's an SVG)
+  - Bind elements to data
+  - Get data
+  - Data function
+
+
+
+#### Assignments:
+
+Due this Wednesday (2019/09/18):
+- Read the [notes from the lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab2) carefully.
+- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
+- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
+- Do not worry about visualizing the data *effectively* yet.
+- create any shapes from it and use [data functions](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab2#data-function) in at least one spot in way that the value of your data point affects the shape you created using D3.
+- push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki) by Wednesday (2019/09/18)
 
 
 ## WEEK 3
