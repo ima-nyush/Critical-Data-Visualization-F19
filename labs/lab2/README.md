@@ -20,8 +20,56 @@
 ### What is a library?
 ### Hi, D3!
 ##### pixels vs. SVG
+
+pixels: each pixel in a given 2d set of pixels is defined. (e.g. jpg-files). pixel-based images loose quality when increasing their size too much, they get "pixelated".
+
+SVG: we can think of SVG as code that describes shapes in relation to their surrounding. That means, graphics can be scaled as you please.  
+
+![raster-vector](assets/raster-vector.jpg)
+
+FYI: Adobe Illustrator can [export graphics as SVG files](https://helpx.adobe.com/hk_en/illustrator/how-to/export-svg.html). [Browsers can read SVG within HTML](w3schools.com/graphics/svg_intro.asp), a little like this:
+
+```HTML
+<html>
+  <head></head>
+  <body>
+    <svg width="100" height="100">
+      <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+    </svg>
+  </body>
+</html>
+```
+
+
+In D3, we use javascript to generate SVG.
+
+```javascript
+d3.select("#viz-container")
+              .append("svg")
+                .append("circle")
+;
+```
+results in this on the page (more D3 below):
+```html
+<div id="viz-container">
+  <svg>
+    <circle></circle>
+  </svg>
+</div>
+```
+
 ##### examples
+
+[here are some](http://techslides.com/over-1000-d3-js-examples-and-demos)
+
+[150 Privacy Policies](https://www.nytimes.com/interactive/2019/06/12/opinion/facebook-google-privacy-policies.html)
+
 ##### Data Driven Documents
+
+D3 ties data to elements on the page. If the data changes, the elements adjust -> they are "driven" by the data.
+
+![d3-intro.gif](assets/d3intro.gif)
+
 ### What you see when you see D3
 ### Something dot something dot something semicolon
 ### Code
