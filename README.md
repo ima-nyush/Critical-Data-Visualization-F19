@@ -179,6 +179,8 @@ Due Monday (2019/09/16):
 
 ###### Optional/Related readings and resources:
 
+- [*WeChat as infrastructure: the techno-nationalist shaping of Chinese digital platforms*](https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1572633), Plantin JC, de Seta G (2019)
+
 ### Wednesday Lab
 
 Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab2)
