@@ -234,13 +234,13 @@ Pick next group research
 Due **this Wednesday** (2019/09/18):
 - Data Self-collection for this week's lab
   - Save the data you have collected thus far, the temporal data for the data zine in a json format.
-  - push it to your GitHub and post the link to the wiki.
+  - push it to your GitHub and post the link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
   - if the data is sensitive and you don't want it online, please share it, or a description of it with me in an email (leon.eckert@nyu.edu).
 
 
 Due Monday (2019/09/23):
-- Read Minority Report by Philip K. Dick
-  - Think of applications in which data is used to predict the future and we act upon the prediction. Compile a list of 3 such situations that come to your mind, push them to your Github and share the link in the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
+- Read [*The Minority Report*](https://github.com/leoneckert/cdv-fall19/blob/master/readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick
+  - Think of contemporary applications in which data is used to predict the future and we then act upon. Compile a list of 3 such situations that come to your mind, push them to your Github and share the link in the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
 - Groups research only
   - Aleksandra, Jannie and Robert, find the resources for your group research [here](/group-research/prediction-and-undertainty).
 
