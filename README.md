@@ -22,7 +22,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
 - Week 2 - [Data Infrastructures](https://github.com/leoneckert/cdv-fall19#week-2)
-- Week 3 - Bias
+- Week 3 - [Bias](#week-3)
 - Week 4 - Prediction and Uncertainty
 - **Fall Break**
 - Week 5 - Concept Review
@@ -140,7 +140,7 @@ Announcement: Data Zine
   todo sample projects!
 
 Introduce Group Research Assignments. The teams are
-- Esther & Robert
+- Eszter & Robert
 - Yiqi, Philis & Cindy
 - Jerry, Kevin & Jinzhong
 - Kennedy & Sarah
@@ -214,6 +214,25 @@ Due this Wednesday (2019/09/18):
 
 
 ## WEEK 3
+
+![bias](other/assets/week3.jpg)
+
+### Monday Class
+
+Presentation and discussion by Eszter & Robert.
+
+Check in on data self-collection.
+
+Bias group activity*
+
+
+\*with thanks to Mimi Ohuoha And Mother Cyborg (Diana Nucera); the activity is taken from their publication "[*A people's guide to AI*](https://www.alliedmedia.org/peoples-ai)" (2018)
+
+#### Assignments:
+
+###### Optional/Related readings and resources:
+
+
 ## WEEK 4
 ## WEEK 5
 ## WEEK 6
