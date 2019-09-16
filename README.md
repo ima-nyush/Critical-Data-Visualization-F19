@@ -140,11 +140,11 @@ Announcement: Data Zine
   todo sample projects!
 
 Introduce Group Research Assignments. The teams are
-- Eszter & Robert
-- Yiqi, Philis & Cindy
-- Jerry, Kevin & Jinzhong
-- Kennedy & Sarah
-- Aleksandra, Jannie & Thomas
+- [X] Eszter & Robert
+- [ ] Yiqi, Philis & Cindy
+- [ ] Jerry, Kevin & Jinzhong
+- [ ] Kennedy & Sarah
+- [ ] Aleksandra, Jannie & Thomas
 
 ###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
 
@@ -204,7 +204,7 @@ Content:
 
 #### Assignments:
 
-Due this Wednesday (2019/09/18):
+Due Wednesday (2019/09/18):
 - Read the [notes from the lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab2) carefully.
 - Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
 - Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
@@ -225,10 +225,24 @@ Check in on data self-collection.
 
 Bias group activity*
 
+Pick next group research
 
 \*with thanks to Mimi Ohuoha And Mother Cyborg (Diana Nucera); the activity is taken from their publication "[*A people's guide to AI*](https://www.alliedmedia.org/peoples-ai)" (2018)
 
 #### Assignments:
+
+Due **this Wednesday** (2019/09/18):
+- Data Self-collection for this week's lab
+  - Save the data you have collected thus far, the temporal data for the data zine in a json format.
+  - push it to your GitHub and post the link to the wiki.
+  - if the data is sensitive and you don't want it online, please share it, or a description of it with me in an email (leon.eckert@nyu.edu).
+
+
+Due Monday (2019/09/23):
+- Read Minority Report by Philip K. Dick
+  - Think of applications in which data is used to predict the future and we act upon the prediction. Compile a list of 3 such situations that come to your mind, push them to your Github and share the link in the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
+- Groups research only
+  - Aleksandra, Jannie and Robert, find the resources for your group research [here](/group-research/prediction-and-undertainty).
 
 ###### Optional/Related readings and resources:
 
