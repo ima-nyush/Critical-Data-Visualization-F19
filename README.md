@@ -273,6 +273,9 @@ Due Wednesday (2019/09/25):
   ![giorgia](other/assets/DearData-week52-Giorgia.jpg)
 
 ## WEEK 4
+
+Show Trevor's app in relation to bias class
+
 ## WEEK 5
 ## WEEK 6
 ## WEEK 7
