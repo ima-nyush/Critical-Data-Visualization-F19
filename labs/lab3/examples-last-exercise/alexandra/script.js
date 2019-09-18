@@ -6,7 +6,6 @@ let viz = d3.select("#viz-container")
                     // which one i chose and to what i want to change it
                     .attr("width", 800)
                     .attr("height", 800)
-
 ;
 
 
@@ -27,16 +26,15 @@ function color(datapoint){
   }
 
   else if (datapoint.complimentType=="Birthday related"){
-    return "pink";
+    return "Wednesday";
   }
-
 }
+
+
 
 function increasingX(datapoint, i){
-return 60*(i%numColumns)+30;
+  return 60*(i%numColumns)+30;
 }
-
-
 
 function increasingY(datapoint, i){
     if (i%numColumns==0){
@@ -48,28 +46,12 @@ function increasingY(datapoint, i){
 
 
 function gotData(newData){   // this function expects to be passed data
-
-
-
-
-  console.log(newData);   // print it to the console to verify
-
-
-
   viz.selectAll("circle").data(newData).enter().append("circle")
                                       .attr("cx", increasingX)
                                       .attr("cy", increasingY)
                                       .attr("r", 30)
                                       .attr("fill", color)
   ;
-
-
-
-
-
-
-
-
 }
 
 d3.json("data.json").then(gotData);

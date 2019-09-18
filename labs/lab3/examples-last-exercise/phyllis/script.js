@@ -24,7 +24,7 @@ function gotData(newdata){
                           .attr("y", checkData1)
                           .attr("width", 5)
                           .attr("height", 5)
-                          .attr("fill", "lightgreen")
+                          .attr("fill", "Tuesday")
   ;
   rects2.enter().append("rect")
                           .attr("x", 200)
