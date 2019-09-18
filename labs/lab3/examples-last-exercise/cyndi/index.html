@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hi, I am learning D3</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- we are including the d3.js library. We load it
+    right from the web into this html file. This allows us
+    to use all the functions that d3 has defines for
+    us in our own code. -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  </head>
+  <body>
+    <div class = "whole">
+      <h1 id = "title1">Use of Different Words on Social Media&nbsp; Sep.10th-Sep.15th</h1>
+
+    <!-- we put this div into place. later we use d3/js to
+    inseret a <svg> elment into it in which we then build
+    out visualization -->
+    <div id="viz-container">
+      <h2>Ha : extremelyHappy</h2>
+    </div>
+    <div id="sad">
+      <h2>Wu : extremelySad</h2>
+    </div>
+
+    <div id="questionmark">
+      <h2>? : feelingConfused</h2>
+    </div>
+    <div id="pos">
+      <h2>emojisForPositiveFeelings</h2>
+    </div>
+    <div id="neg">
+      <h2>emojisForNegativeFeelings</h2>
+    </div>
+    <a href="second.html"><img id = "right" src="https://cdn1.imggmi.com/uploads/2019/9/13/7ca28a128802f0b9a8590e62c4939f91-full.png" alt="" width="60"></a>
+    </div>
+
+    <!-- here we incude out own javascript file in which we are
+    using many of the functions from the d3 library that we
+    have included in the <head> section -->
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>

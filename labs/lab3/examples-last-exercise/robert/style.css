@@ -1,0 +1,37 @@
+body{
+  width, height: 100%;
+  margin: 0;
+}
+
+#viz{
+  margin-left: 150px;
+  background-color: white;
+}
+
+#line{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    margin-left: 170px;
+}
+
+.words{
+    margin:0;
+    padding:0;
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    vertical-align: top;
+}
+
+#timeOne{
+  margin-left: 135px;
+}
+
+#timeTwo{
+  margin-left: 1040px;
+}
+
+.intro{
+  text-align: center;
+  font-family: cursive;
+}

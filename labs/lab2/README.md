@@ -13,7 +13,7 @@
   - Create the "canvas" (it's an SVG)
   - Bind elements to data
   - Get data
-  - Data function
+  - Data function̨
 
 
 

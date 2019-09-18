@@ -1,0 +1,71 @@
+date,time,item,quantity,material,throw away,purpose,location
+10-Sep,9:30,food package,1,paper,residual ,breakfast,restaurant to-go
+10-Sep,10:10,cup,1,plastic,residual ,coffee,restaurant to-go
+10-Sep,10:10,straw,1,paper,residual ,coffee,restaurant to-go
+10-Sep,13:20,food package,1,paper,residual ,lunch,restaurant to-go
+10-Sep,13:20,food package,1,plastic,residual ,lunch,restaurant to-go
+10-Sep,13:20,tissue,1,paper,residual ,lunch,restaurant to-go
+10-Sep,17:02,bottle,1,plastic,recyclable,tea,FamilyMart
+10-Sep,18:02,tissue,2,paper,residual ,dinner,school
+10-Sep,18:05,straw package,1,plastic,residual ,beverage,school
+10-Sep,22:01,drink package,1,paper,recyclable,beverage,school
+10-Sep,23:28,tissue,2,paper,residual ,cleaning,school
+11-Sep,7:50,tissue,2,paper,residual ,breakfast,restaurant to-go
+11-Sep,8:40,food package,1,paper,residual ,breakfast,restaurant to-go
+11-Sep,9:30,cup,1,plastic,residual ,coffee,restaurant to-go
+11-Sep,9:30,straw,1,paper,residual ,coffee,restaurant to-go
+11-Sep,10:54,tissue,1,paper,residual ,cleaning,
+11-Sep,13:22,bottle,1,plastic,residual ,beverage,
+11-Sep,12:40,tissue,1,paper,residual ,cleaning,
+11-Sep,12:40,cup,1,paper,residual ,beverage,
+11-Sep,16:02,food package,1,plastic,residual ,snack,
+11-Sep,18:24,tissue,2,paper,residual ,cleaning,
+11-Sep,22:20,bottle,1,plastic,recyclable,milk,
+11-Sep,0:40,tissue,4,paper,residual ,cleaning,home
+12-Sep,9:26,food package,2,paper,residual ,breakfast,
+12-Sep,9:26,tissue,1,paper,residual ,breakfast,
+12-Sep,10:27,fork,1,wooden,residual ,snack,
+12-Sep,10:27,straw,1,paper,residual ,coffee,
+12-Sep,12:28,tissue,1,paper,residual ,lunch,
+12-Sep,18:24,cup sleeve,1,paper,recyclable,coffee,
+12-Sep,21:48,paper pag,1,paper,residual ,snack,
+12-Sep,21:48,cup,1,plasstic,recyclable,beverage,
+13-Sep,12:40,tissue,2,paper,residual ,cleaning,restaurant stay
+13-Sep,12:40,wipe,2,plastic textile,residual ,cleaning,restaurant stay
+13-Sep,12:40,wipe package,2,plastic,residual ,cleaning,restaurant stay
+13-Sep,14:57,bottle,1,plastic,residual ,bottled water,school
+13-Sep,16:20,cup sleeve,1,paper,residual ,snack,school
+13-Sep,16:20,cup,1,paper,residual ,snack,school
+13-Sep,17:36,tissue,3,paper,residual ,cleaning,subway station
+13-Sep,19:47,food package,2,plastic,residual ,dinner,school
+13-Sep,19:47,chopstick,2,wooden,residual ,dinner,school
+13-Sep,21:40,tissue,5,paper,residual ,cleaning,home
+13-Sep,21:40,chopstick,2,wooden,residual ,snack,home
+14-Sep,2:30,tissue,1,paper,residual ,cleaning,home
+14-Sep,10:30,chopstick,2,wooden,residual ,brunch,home
+14-Sep,2:56,cup sleeve,1,paper,residual ,beverage,school
+14-Sep,2:56,cup,1,paper,residual ,beverage,school
+14-Sep,12:37,food package,3,plastic,residual ,lunch,familyMart
+14-Sep,18:30,package,1,plastic,residual ,dinner,restaurant stay
+14-Sep,18:30,tissue,5,paper,residual ,dinner,restaurant stay
+14-Sep,19:48,bottle,1,plastic,recyclable,beverage,familyMart
+14-Sep,22:28,plastic bag,1,plastic,recyclable,grocery,eleme
+14-Sep,23:40,tissue,2,paper,residual ,cleaning,home
+15-Sep,9:47,food package,1,paper,residual ,breakfast,restaurant to-go
+15-Sep,10:03,cup,1,paper,residual ,coffee,familyMart
+15-Sep,10:03,cup sleeve,1,paper,residual ,coffee,familyMart
+15-Sep,14:22,palstic bag,1,plastic ,residual ,lunch,eleme
+15-Sep,14:22,chopstick,2,wooden,residual ,lunch,eleme
+15-Sep,14:22,spoon,1,plastic,residual ,lunch,eleme
+15-Sep,14:22,food package,2,plastic,residual ,lunch,eleme
+15-Sep,14:22,food package,1,paper,residual ,lunch,eleme
+15-Sep,20:06,tissue,1,paper,residual ,dinner,restaurant stay
+16-Sep,9:30,food package,1,paper,residual ,breakfast,restaurant to-go
+16-Sep,10:10,cup,1,paper,residual ,coffee,restaurant to-go
+16-Sep,13:17,palstic bag,1,palstic ,residual ,lunch,restaurant to-go
+16-Sep,13:17,food package,1,paper,residual ,lunch,restaurant to-go
+16-Sep,13:17,tissue,1,paper,residual ,lunch,restaurant to-go
+16-Sep,13:48,bottle,1,plastic,residual ,beverage,school
+16-Sep,18:57,tissue,1,paper,residual ,dinner,restaurant stay
+17-Sep,9:54,chopstick,2,wooden,residual ,breakfast,home
+17-Sep,9:58,tissue,2,paper,residual ,cleaning,home

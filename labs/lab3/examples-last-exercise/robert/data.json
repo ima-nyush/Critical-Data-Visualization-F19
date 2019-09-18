@@ -1,0 +1,50 @@
+[
+    {
+        "Moment": 1,
+        "color": "pink"
+    },
+    {
+        "Moment": 3,
+        "color": "blueviolet"
+    },
+    {
+        "Moment": 5,
+        "color": "pink"
+    },
+    {
+        "Moment": 13,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 15,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 27,
+        "color": "blueviolet"
+    },
+    {
+        "Moment": 29,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 34,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 38,
+        "color": "blueviolet"
+    },
+    {
+        "Moment": 47,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 54,
+        "color": "lightgreen"
+    },
+    {
+        "Moment": 56,
+        "color": "blueviolet"
+    }
+]

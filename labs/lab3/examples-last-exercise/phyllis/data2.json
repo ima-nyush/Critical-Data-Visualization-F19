@@ -1,0 +1,126 @@
+{
+    "laugh": [
+        {
+            "time": "08:00-10:00",
+            "tuesday": 1,
+            "wednesday": 5,
+            "thursday": 2,
+            "friday": 1,
+            "saturday": 4,
+            "sunday": 4,
+            "monday": 2
+        },
+        {
+            "time": "10:00-12:00",
+            "tuesday": 2,
+            "wednesday": 4,
+            "thursday": 2,
+            "friday": 5,
+            "saturday": 3,
+            "sunday": 2,
+            "monday": 2
+        },
+        {
+            "time": "12:00-14:00",
+            "tuesday": 2,
+            "wednesday": 15,
+            "thursday": 1,
+            "friday": 4,
+            "saturday": 6,
+            "sunday": 2,
+            "monday": 3
+        },
+        {
+            "time": "14:00-16:00",
+            "tuesday": 2,
+            "wednesday": 5,
+            "thursday": 5,
+            "friday": 0,
+            "saturday": 5,
+            "sunday": 4,
+            "monday": 4
+        },
+        {
+            "time": "16:00-18:00",
+            "tuesday": 2,
+            "wednesday": 2,
+            "thursday": 10,
+            "friday": 7,
+            "saturday": 5,
+            "sunday": 4,
+            "monday": 4
+        },
+        {
+            "time": "18:00-20:00",
+            "tuesday": 3,
+            "wednesday": 12,
+            "thursday": 11,
+            "friday": 10,
+            "saturday": 2,
+            "sunday": 2,
+            "monday": 10
+        }
+    ],
+    "sigh": [
+        {
+            "time": "08:00-10:00",
+            "tuesday": 3,
+            "wednesday": 8,
+            "thursday": 12,
+            "friday": 5,
+            "saturday": 2,
+            "sunday": 5,
+            "monday": 6
+        },
+        {
+            "time": "10:00-12:00",
+            "tuesday": 2,
+            "wednesday": 7,
+            "thursday": 3,
+            "friday": 15,
+            "saturday": 5,
+            "sunday": 3,
+            "monday": 6
+        },
+        {
+            "time": "12:00-14:00",
+            "tuesday": 3,
+            "wednesday": 7,
+            "thursday": 3,
+            "friday": 3,
+            "saturday": 10,
+            "sunday": 5,
+            "monday": 3
+        },
+        {
+            "time": "14:00-16:00",
+            "tuesday": 3,
+            "wednesday": 4,
+            "thursday": 5,
+            "friday": 3,
+            "saturday": 8,
+            "sunday": 8,
+            "monday": 4
+        },
+        {
+            "time": "16:00-18:00",
+            "tuesday": 2,
+            "wednesday": 1,
+            "thursday": 4,
+            "friday": 4,
+            "saturday": 5,
+            "sunday": 3,
+            "monday": 3
+        },
+        {
+            "time": "18:00-20:00",
+            "tuesday": 3,
+            "wednesday": 4,
+            "thursday": 3,
+            "friday": 3,
+            "saturday": 7,
+            "sunday": 5,
+            "monday": 5
+        }
+    ]
+}

@@ -8,6 +8,10 @@ Welcome! This page will be filled with material and links throughout the Semeste
 - Room: 824
 - Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
 
+##### Other:
+
+- [Resources](other/resources)
+
 #### Course Description
 Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
 
@@ -246,6 +250,27 @@ Due Monday (2019/09/23):
 
 ###### Optional/Related readings and resources:
 
+### Wednesday Lab
+
+Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab3)
+
+Content:
+- useful resources
+- incoming data: the enter-selection
+- repeat: data function (demo coding)
+- modify elements
+  - multiple attributes
+  - classes
+- grouping elements
+- text
+
+#### Assignments:
+
+Due Wednesday (2019/09/25):
+- Visualize your data making use of group (`<g>`) elements
+- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
+- Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different asspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
+  ![giorgia](other/assets/DearData-week52-Giorgia.jpg)
 
 ## WEEK 4
 ## WEEK 5
