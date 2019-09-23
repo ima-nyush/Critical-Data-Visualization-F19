@@ -278,11 +278,18 @@ Due Wednesday (2019/09/25):
 
 ### Monday Class
 
+Presentation and discussion by Alexandra, Janine & Thomas.
+
+- Discussing *The Minority Report*.
+  - predict/construct
+    - [facebook's emotion experiment](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)
+  - Bridle's [*Something is wrong with the Internet*](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
+  - Matthew Plummer Fernandez: [Decoy Browsing](http://www.plummerfernandez.com/Decoy-Browsing-Triptych)
+- Revisiting Bias/just in: [IMAGENET ROULETTE](https://imagenet-roulette.paglen.com) by Trevor Paglen and Kate Crawford
+- Data Collection Check In
+- Data Zine: Prototype and [Coding Template]((other/material/datazine-template.zip)).
 
 
-Show Trevor's app in relation to bias class
-
-What's everyone's capstone about?
 
 #### Assignments:
 
@@ -291,10 +298,17 @@ Due **this** Wednesday (2019/09/25):
   - Graphical Excellence
   - Graphical Integrity
   - Sources of Graphical Integrity and Sophistication
+  - I highly recommend getting a physical copy from the library. A [digital version](https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view?usp=sharing) is also available on request.
 - Paper prototype for your Data Zine Project:
   - Print out [this template](other/material/datazine-paperprototype.pdf) on **A3-sized paper**.
-  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization that illustrate different aspects of your data set.
+  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
+  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
 
+Due Monday (2019/10/07):
+- Enjoy this over the fall break.
+- Read the chapter "Data Visualization" from *Technologies of Vision : The War Between Data And Images* by Steve F. Anderson.
+  - There is a copy in our libray.
+  - A [digital version](https://ieeexplore-ieee-org.proxy.library.nyu.edu/servlet/opac?bknumber=8169744) is also accessible to NYU students. Please contact me if you run into difficulties.
 
 ## WEEK 5
 ## WEEK 6
