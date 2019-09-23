@@ -278,7 +278,7 @@ Due Wednesday (2019/09/25):
 
 ### Monday Class
 
-- Presentation and discussion by Alexandra, Janine & Thomas.
+- Presentation and discussion by Alexandra, Jannie & Thomas.
 - Discussing *The Minority Report*.
   - predict/construct
     - [facebook's emotion experiment](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)
