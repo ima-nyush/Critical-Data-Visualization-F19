@@ -274,7 +274,27 @@ Due Wednesday (2019/09/25):
 
 ## WEEK 4
 
+![prediction and uncertainty](other/assets/week4.jpg)
+
+### Monday Class
+
+
+
 Show Trevor's app in relation to bias class
+
+What's everyone's capstone about?
+
+#### Assignments:
+
+Due **this** Wednesday (2019/09/25):
+- Read the following Chapters of *The Visual Display of Quantitative Information* by [Edward R. Tufte](https://en.wikipedia.org/wiki/Edward_Tufte):
+  - Graphical Excellence
+  - Graphical Integrity
+  - Sources of Graphical Integrity and Sophistication
+- Paper prototype for your Data Zine Project:
+  - Print out [this template](other/material/datazine-paperprototype.pdf) on **A3-sized paper**.
+  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization that illustrate different aspects of your data set.
+
 
 ## WEEK 5
 ## WEEK 6
