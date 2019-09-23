@@ -301,7 +301,7 @@ Due **this** Wednesday (2019/09/25):
 - Paper prototype for your Data Zine Project:
   - Print out [this template](other/material/datazine-paperprototype.pdf) on **A3-sized paper**.
   - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
-  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki).
+  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Data-Zine:-Paper-Prototypes-(week-4)).
 
 Due Monday (2019/10/07):
 - Enjoy this over the fall break.
