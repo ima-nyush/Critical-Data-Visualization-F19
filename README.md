@@ -27,7 +27,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
 - Week 2 - [Data Infrastructures](https://github.com/leoneckert/cdv-fall19#week-2)
 - Week 3 - [Bias](#week-3)
-- Week 4 - Prediction and Uncertainty
+- Week 4 - [Prediction and Uncertainty](#week-4)
 - **Fall Break**
 - Week 5 - Concept Review
 - Week 6 - Data Zine Project Presentations 🎉
@@ -278,8 +278,7 @@ Due Wednesday (2019/09/25):
 
 ### Monday Class
 
-Presentation and discussion by Alexandra, Janine & Thomas.
-
+- Presentation and discussion by Alexandra, Janine & Thomas.
 - Discussing *The Minority Report*.
   - predict/construct
     - [facebook's emotion experiment](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)
