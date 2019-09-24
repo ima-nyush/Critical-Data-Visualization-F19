@@ -286,7 +286,7 @@ Due Wednesday (2019/09/25):
   - Matthew Plummer Fernandez: [Decoy Browsing](http://www.plummerfernandez.com/Decoy-Browsing-Triptych)
 - Revisiting Bias/just in: [IMAGENET ROULETTE](https://imagenet-roulette.paglen.com) by Trevor Paglen and Kate Crawford
 - Data Collection Check In
-- Data Zine: Prototype and [Coding Template]((other/material/datazine-template.zip)).
+- Data Zine: Prototype and [Coding Template](other/material/datazine-template.zip).
 
 
 
