@@ -6,3 +6,4 @@
 - [**SVG ATRRIBUTES Reference**](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute)
 - [Full D3 reference](https://github.com/d3/d3/wiki)
 - [D3 Selection Documentation](https://github.com/d3/d3-selection)
+- [Check what's wrong with your JSON file here](https://jsonlint.com/)
