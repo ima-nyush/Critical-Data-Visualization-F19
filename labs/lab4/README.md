@@ -21,6 +21,6 @@ Let's use [this version of the Data Zine coding template](material/buildings-sta
 
 #### live coding demo: dead celebrities
 
-Let's use the [Data Zine coding template]((other/material/datazine-template.zip)) and [this data set](material/celebrity_deaths.json.zip) to build this:
+Let's use the [Data Zine coding template](other/material/datazine-template.zip) and [this data set](material/celebrity_deaths.json.zip) to build this:
 
 ![dead-celebrities](assets/dead-celebrities.png)
