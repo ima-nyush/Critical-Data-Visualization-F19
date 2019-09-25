@@ -11,6 +11,7 @@ Welcome! This page will be filled with material and links throughout the Semeste
 ##### Other:
 
 - [Resources](other/resources)
+- How to use the Data Zine template
 
 #### Course Description
 Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
@@ -148,7 +149,7 @@ Introduce Group Research Assignments. The teams are
 - [ ] Yiqi, Philis & Cindy
 - [ ] Jerry, Kevin & Jinzhong
 - [ ] Kennedy & Sarah
-- [ ] Aleksandra, Jannie & Thomas
+- [X] Aleksandra, Jannie & Thomas
 
 ###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
 
@@ -278,7 +279,7 @@ Due Wednesday (2019/09/25):
 
 ### Monday Class
 
-- Presentation and discussion by Alexandra, Jannie & Thomas.
+- [Presentation and discussion](/group-research/prediction-and-undertainty) by Alexandra, Jannie & Thomas.
 - Discussing *The Minority Report*.
   - predict/construct
     - [facebook's emotion experiment](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)
@@ -308,6 +309,10 @@ Due Monday (2019/10/07):
 - Read the chapter "Data Visualization" from *Technologies of Vision : The War Between Data And Images* by Steve F. Anderson.
   - There is a copy in our libray.
   - A [digital version](https://ieeexplore-ieee-org.proxy.library.nyu.edu/servlet/opac?bknumber=8169744) is also accessible to NYU students. Please contact me if you run into difficulties.
+
+###### Optional/Related readings and resources:
+
+[*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
 
 ## WEEK 5
 ## WEEK 6
