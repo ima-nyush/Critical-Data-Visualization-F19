@@ -23,6 +23,24 @@ This class seeks to untangle some of these issues practically and theoretically.
 
 [Course Overview and Learning Outcomes](https://github.com/leoneckert/cdv-fall19#course-overview-and-learning-outcomes)
 
+<!-- #### Content
+|Week|Class|Lab|
+|:-:|---|-|
+|**1**|[Mapping the Landscape](#week-1)|Collect Data|
+|**2**|[Data Infrastructures](#week-2)|Meet D3js I|
+|**3**|[Bias](#week-3)|Meet D3js II|
+|**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
+||**Fall Break**||
+|**5**|Concept Review||
+|**6**|Data Zine Project Presentations 🎉||
+|**7**|Data Ethics||
+|**8**|Concept Review||
+|**9**|Algorithmic decision-making & automating inequality||
+|**10**|Data Story: Work in Progress Presentations 📚||
+|**11**|Surveillance Capitalism||
+|**12**|Concept Review||
+|**13**|Activism, Leaks and Whistleblowers||
+|**14**|Data Story Project Presentations 🥂|| -->
 
 #### Content
 - Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
