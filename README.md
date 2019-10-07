@@ -11,7 +11,7 @@ Welcome! This page will be filled with material and links throughout the Semeste
 ##### Other:
 
 - [Resources](other/resources)
-- How to use the Data Zine template
+- **Brief for Data Zine Project**
 
 #### Course Description
 Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
@@ -31,7 +31,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**3**|[Bias](#week-3)|Meet D3js II|
 |**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
 ||**Fall Break**||
-|**5**|Concept Review||
+|**5**|Concept Review|Old bits, new bits: scales, data functions, axis, filter method|
 |**6**|Data Zine Project Presentations 🎉||
 |**7**|Data Ethics||
 |**8**|Concept Review||
@@ -332,7 +332,44 @@ Due Monday (2019/10/07):
 
 [*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
 
+### Wednesday Lab
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab4)
+- intro to scales (with pictures)
+- live coding demo: high buildings
+- live coding demo: dead celebrities
+
+
 ## WEEK 5
+
+![concept review](other/assets/week5.jpg)
+
+### Monday lab
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab5)
+
+Putting together what we have so far learned to produce a high quality, well coded D3 graph. Topics specifically reviewed:
+- JS filter function
+- d3.timeParse
+- d3.min, d3.max, d3.extent
+- scales
+  - d3.scaleTime
+  - d3.scaleLinear
+- axis
+- graph
+
+#### Assignments:
+
+Due **this** Wednesday (2019/10/09):
+- Aim to be close to finished with your Data Zine project.
+- Prepare a short presentation (2 minutes) of your project that you will pitch to me. We will then talk about it together and I'll give you last-minute advice in a one-on-one setting.
+- Before next Monday's class, I will print your project. Please deliver it on time.
+- **DATA ZINE DUE DATE:**
+```
+    Monday, 2019/10/14, NOON
+```
+
+
 ## WEEK 6
 ## WEEK 7
 ## WEEK 8

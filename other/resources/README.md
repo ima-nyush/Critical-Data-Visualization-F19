@@ -23,3 +23,4 @@
 - [Kaggle](https://www.kaggle.com/)
 - [Data Is Plural: Newsletter](https://tinyletter.com/data-is-plural)
 - [Data Is Plural: Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [Our World in Data](https://ourworldindata.org)
