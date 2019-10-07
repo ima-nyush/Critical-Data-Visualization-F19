@@ -31,7 +31,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**3**|[Bias](#week-3)|Meet D3js II|
 |**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
 ||**Fall Break**||
-|**5**|Concept Review|Old bits, new bits: scales, data functions, axis, filter method|
+|**5**|[Concept Review](#week-5)|Old bits, new bits: scales, data functions, axis, filter method|
 |**6**|Data Zine Project Presentations 🎉||
 |**7**|Data Ethics||
 |**8**|Concept Review||
@@ -48,7 +48,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 3 - [Bias](#week-3)
 - Week 4 - [Prediction and Uncertainty](#week-4)
 - **Fall Break**
-- Week 5 - Concept Review
+- Week 5 - [Concept Review](#week-5)
 - Week 6 - Data Zine Project Presentations 🎉
 - Week 7 - Data Ethics
 - Week 8 - Concept Review
