@@ -1,0 +1,44 @@
+[
+    {
+        "day": "Tuesday",
+        "name": "Katrin",
+        "complimentType": "Work",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Katrin",
+        "complimentType": "Work",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Thursday",
+        "name": "Amanda",
+        "complimentType": "Personality",
+        "medium": "life"
+    },
+    {
+        "day": "Thursday",
+        "name": "Amanda",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Friday",
+        "name": "Annija",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Sunday",
+        "name": "Annija",
+        "complimentType": "Work",
+        "medium": "life"
+    },
+    {
+        "day": "Sunday",
+        "name": "Annija",
+        "complimentType": "Work",
+        "medium": "life"
+    }
+]

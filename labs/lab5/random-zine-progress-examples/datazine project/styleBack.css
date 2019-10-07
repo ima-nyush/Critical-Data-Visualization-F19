@@ -1,0 +1,53 @@
+body{
+  font: 12px 'Helvetica';
+  background-color: white;
+}
+
+
+.Tuesday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 120px;
+}
+
+.Wednesday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 220px;
+}
+
+.Thursday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 320px;
+}
+
+.Friday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 420px;
+}
+
+.Saturday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 520px;
+}
+
+.Sunday{
+  padding-left: 15px;
+  color: black;
+  font: 20px 'HanziPen SC';
+  position:absolute;
+  top: 620px;
+}

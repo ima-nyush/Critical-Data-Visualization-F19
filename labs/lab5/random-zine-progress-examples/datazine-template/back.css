@@ -1,0 +1,24 @@
+#graph{
+  display: inline-block;
+  /* float: left; */
+  height: 500px;
+}
+
+#labels{
+  display: inline-block;
+  width: 600px;
+  height: 300px;
+}
+
+#intro{
+  display: inline-block;
+  width: 600px;
+  height: 800px;
+  float: right;
+  background-color: lightyellow;
+}
+
+h1{
+  margin-left: 42%;
+
+}

@@ -1,0 +1,881 @@
+[{
+  "Timestamp": "2019-09-19T15:49:45.404Z",
+  "Type": "Sedan",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T15:49:48.260Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T15:49:50.890Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T15:49:51.890Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T15:49:53.376Z",
+  "Type": "Sedan",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T15:49:54.453Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T15:49:54.852Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T15:49:55.909Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T15:49:56.800Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T15:49:58.709Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T15:50:00.533Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T15:50:09.079Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T15:50:12.511Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T15:50:14.698Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T15:54:51.446Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T15:55:08.344Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T15:55:09.074Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T15:59:55.324Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T15:59:57.454Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:00:08.309Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:00:10.336Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:04:45.829Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:04:51.907Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:04:52.750Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:04:53.023Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:04:53.759Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:04:54.164Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:04:54.831Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:04:59.386Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:04:59.393Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:05:00.156Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:05:04.347Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:05:04.559Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:05:06.370Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:05:07.545Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:05:14.808Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:05:16.890Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:09:46.529Z",
+  "Type": "Truck",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:09:46.565Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:09:47.864Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:09:48.809Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T16:09:53.169Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:09:55.240Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:09:59.518Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:10:00.183Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:10:01.187Z",
+  "Type": "Truck",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:10:02.800Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:10:03.902Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:10:05.163Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:10:11.156Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:10:12.252Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:10:13.605Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:14:47.271Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:14:47.819Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:14:51.083Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:14:53.214Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T16:14:54.144Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:14:54.215Z",
+  "Type": "Sedan",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T16:14:56.699Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:14:59.654Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:15:00.485Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:15:08.750Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:15:11.876Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:19:50.750Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:19:53.838Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:20:02.179Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:20:05.609Z",
+  "Type": "Bus",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:20:07.909Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:20:10.056Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:20:11.875Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:24:46.173Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:24:47.695Z",
+  "Type": "SUV",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:25:02.666Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:25:11.612Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:29:46.093Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:29:46.382Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:29:48.771Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:29:57.654Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:29:58.014Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:29:59.454Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:30:03.936Z",
+  "Type": "Truck",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:34:46.356Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:34:46.935Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:34:47.389Z",
+  "Type": "SUV",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:34:47.539Z",
+  "Type": "Bus",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:34:48.905Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:34:52.660Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:35:00.707Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:35:01.505Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:35:03.701Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:35:05.702Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:35:07.326Z",
+  "Type": "SUV",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:35:11.998Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:35:12.601Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:39:48.462Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:39:50.876Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:39:51.061Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:39:52.598Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:39:58.208Z",
+  "Type": "Sedan",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T16:40:02.870Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:40:03.799Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:40:12.337Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:44:46.273Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:44:49.194Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:44:52.686Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:44:53.220Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:44:59.233Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:44:59.406Z",
+  "Type": "Truck",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:45:00.004Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:45:00.428Z",
+  "Type": "Truck",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T16:45:02.829Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:45:03.455Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:45:12.829Z",
+  "Type": "SUV",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:45:13.022Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:45:14.621Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:49:47.287Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:49:51.047Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:50:01.751Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:50:02.658Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:50:11.536Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:54:45.218Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:54:46.683Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:54:52.269Z",
+  "Type": "Truck",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T16:54:55.605Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:54:58.600Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:54:58.905Z",
+  "Type": "Sedan",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:55:01.647Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T16:55:02.530Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:55:03.084Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:55:07.601Z",
+  "Type": "SUV",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T16:55:09.996Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:55:10.168Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:55:14.820Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:59:46.041Z",
+  "Type": "Truck",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T16:59:51.632Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T16:59:58.120Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T16:59:58.304Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:00:11.686Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:04:47.569Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:04:53.751Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:04:58.193Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:05:02.232Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:05:05.904Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:05:12.469Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:05:12.903Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:09:50.288Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:09:50.351Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T17:09:51.173Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:09:54.250Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:09:59.783Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:10:04.940Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:10:05.133Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:10:05.575Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:10:07.551Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:10:08.692Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:10:08.975Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:10:13.246Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:14:47.470Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:14:48.368Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:14:52.362Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:19:46.328Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:19:51.295Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:20:00.863Z",
+  "Type": "Bus",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:20:01.782Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:20:01.822Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:20:04.619Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:20:08.030Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:20:08.364Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:20:09.651Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:20:09.832Z",
+  "Type": "SUV",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T17:20:10.525Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:20:13.145Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:20:13.434Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:20:14.244Z",
+  "Type": "Truck",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:20:14.381Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:24:45.602Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:24:47.619Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:24:48.604Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:24:57.989Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:25:00.062Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:25:00.901Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:25:06.778Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:25:07.264Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:25:10.345Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:25:12.252Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:25:12.660Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:29:48.672Z",
+  "Type": "Sedan",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:29:51.244Z",
+  "Type": "Sedan",
+  "Color": "orange"
+}, {
+  "Timestamp": "2019-09-19T17:29:52.160Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:29:54.529Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:29:57.151Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:30:00.033Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:30:01.902Z",
+  "Type": "SUV",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:30:03.693Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:30:12.317Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:30:13.107Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:30:13.563Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T17:30:14.684Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:34:50.593Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:34:54.045Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:34:56.989Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:34:57.498Z",
+  "Type": "SUV",
+  "Color": "red"
+}, {
+  "Timestamp": "2019-09-19T17:34:58.441Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:35:04.723Z",
+  "Type": "SUV",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:35:04.903Z",
+  "Type": "Sedan",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:35:07.790Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:35:10.199Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:35:10.636Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:35:11.390Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:39:45.137Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T17:39:46.851Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:39:52.150Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:39:59.465Z",
+  "Type": "Sedan",
+  "Color": "black"
+}, {
+  "Timestamp": "2019-09-19T17:40:01.046Z",
+  "Type": "SUV",
+  "Color": "silver"
+}, {
+  "Timestamp": "2019-09-19T17:44:45.768Z",
+  "Type": "Sedan",
+  "Color": "green"
+}, {
+  "Timestamp": "2019-09-19T17:44:53.682Z",
+  "Type": "Bus",
+  "Color": "blue"
+}, {
+  "Timestamp": "2019-09-19T17:44:56.894Z",
+  "Type": "SUV",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:44:57.065Z",
+  "Type": "Sedan",
+  "Color": "white"
+}, {
+  "Timestamp": "2019-09-19T17:45:03.244Z",
+  "Type": "Bus",
+  "Color": "other"
+}, {
+  "Timestamp": "2019-09-19T17:45:05.097Z",
+  "Type": "Sedan",
+  "Color": "green"
+}]
