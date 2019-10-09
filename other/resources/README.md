@@ -24,3 +24,4 @@
 - [Data Is Plural: Newsletter](https://tinyletter.com/data-is-plural)
 - [Data Is Plural: Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 - [Our World in Data](https://ourworldindata.org)
+- [NYU Shanghai | Data Science: Chinese Datasets Archive 2.0](https://datascience.shanghai.nyu.edu/datasets)

@@ -344,7 +344,7 @@ Due Monday (2019/10/07):
 
 ![concept review](other/assets/week5.jpg)
 
-### Monday lab
+### Monday Lab
 
 [The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab5)
 
@@ -368,6 +368,23 @@ Due **this** Wednesday (2019/10/09):
 ```
     Monday, 2019/10/14, NOON
 ```
+
+### Wednesday Class
+
+One-on-one reviews of projects progress.
+
+#### Assignments:
+
+Due Monday (2019/10/14):
+- Finish and submit your Data Zine Project to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Data-Zine-Project-(week-6)) by
+```
+    Monday, 2019/10/14, NOON 🚨
+```
+- This is a hard deadline; I will try to print out all zines before class. 🤞
+- If you are are finished earlier, **please, please notify me in an email**. This will allow me to print your project before the deadline and make things easier/possible.
+- Don't hesitate to email me any questions that come up.
+
+
 
 
 ## WEEK 6
