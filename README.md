@@ -375,16 +375,16 @@ One-on-one reviews of projects progress.
 
 - [X] Eszter
 - [X] Jinzhong
-- [ ] Robert
-- [ ] Eric
+- [X] Robert
+- [X] Eric
 - [X] Thomas (not in class)
-- [ ] Sarah
-- [ ] Cyndi
-- [ ] Kennedy
-- [ ] Phyllis
-- [ ] Jannie
-- [ ] Yiqi
-- [ ] Aleksandra
+- [X] Sarah
+- [X] Cyndi
+- [X] Kennedy
+- [X] Phyllis
+- [X] Jannie
+- [X] Yiqi
+- [X] Aleksandra
 - [X] Jerry (not in class)
 
 
