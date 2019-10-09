@@ -373,6 +373,22 @@ Due **this** Wednesday (2019/10/09):
 
 One-on-one reviews of projects progress.
 
+- [ ] Eszter
+- [ ] Jinzhong
+- [ ] Robert
+- [ ] Eric
+- [X] Thomas (not in class)
+- [ ] Sarah
+- [ ] Cyndi
+- [ ] Kennedy
+- [ ] Phyllis
+- [ ] Jannie
+- [ ] Yiqi
+- [ ] Aleksandra
+- [X] Jerry (not in class)
+
+
+
 #### Assignments:
 
 Due Monday (2019/10/14):
