@@ -373,8 +373,8 @@ Due **this** Wednesday (2019/10/09):
 
 One-on-one reviews of projects progress.
 
-- [ ] Eszter
-- [ ] Jinzhong
+- [X] Eszter
+- [X] Jinzhong
 - [ ] Robert
 - [ ] Eric
 - [X] Thomas (not in class)

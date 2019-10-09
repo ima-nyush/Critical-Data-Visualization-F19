@@ -13,6 +13,8 @@ Today is a review session of the things we have learned so far. We also learn li
   - axis
   - graph
 
+[Finished JS File](https://github.com/leoneckert/cdv-fall19/blob/master/labs/lab5/finished-hiv-graph/script.js)
+
 #### Data
 
 [Our World in Data: Annual number of new cases of HIV infection](https://ourworldindata.org/grapher/new-cases-of-hiv-infection?tab=chart&time=1990..2017)
