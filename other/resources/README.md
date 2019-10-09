@@ -16,6 +16,7 @@
 
 - [Vis for Future](https://uclab.fh-potsdam.de/vff/): gathered *state-of-the-art visualizations of climate change*
 - [Comparative Perspectives - Heights of Mountains, Lengths of Rivers](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)
+- [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
 
 ### data
 > share good and or fun sources with us.
