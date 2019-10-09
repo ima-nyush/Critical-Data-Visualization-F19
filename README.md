@@ -376,7 +376,9 @@ One-on-one reviews of projects progress.
 #### Assignments:
 
 Due Monday (2019/10/14):
-- Finish and submit your Data Zine Project to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Data-Zine-Project-(week-6)) by
+- Finish your Data Zine Project and add a `README.md` file to the project folder.
+  - In the `README.md`, please describe your project in a few sentences and include screenshots of each of the pages. Feel free to expand on points you want to highlight or talk about challenges you faced and solutions you found (or compromises you made) while working on it.
+- Push the project to you GitHub repository and submit a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Data-Zine-Project-(week-6)) by
 ```
     Monday, 2019/10/14, NOON 🚨
 ```
