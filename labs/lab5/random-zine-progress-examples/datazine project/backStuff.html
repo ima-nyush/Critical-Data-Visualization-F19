@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <!-- we are including the d3.js library. We load it
+right from the web into this html file. This allows us
+to use all the functions that d3 has defines for
+us in our own code. -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<link rel="stylesheet" href="styleBack.css">
+
+
+    <title>Middle spread</title>
+
+    <!-- Please leave this following line here -->
+    <script type="text/javascript" src="setup/setup.js"></script>
+
+
+  </head>
+  <body>
+
+    <!-- everything you create should be in the following container -->
+    <!-- Use D3 to place your svg(s) in it, too -->
+
+  <div id="container">
+
+    <h2>COMPLIMENTS I GAVE</h2>
+
+    <svg width="1" height="1"
+         xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+         <filter id="blurMe">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" />
+          </filter>
+
+    </svg>
+
+    <div id="viz-container3">
+      <div class="Tuesday">
+        TUESDAY
+      </div>
+
+      <div class="Wednesday">
+        WEDNESDAY
+      </div>
+
+      <div class="Thursday">
+        THURSDAY
+      </div>
+
+      <div class="Friday">
+        FRIDAY
+      </div>
+
+      <div class="Saturday">
+        SATURDAY
+      </div>
+
+      <div class="Sunday">
+        SUNDAY
+      </div>
+
+    </div>
+    <!-- we put this div into place. later we use d3/js to
+    inseret a <svg> elment into it in which we then build
+    out visualization -->
+
+
+
+      </div>
+
+    <script type="text/javascript" src="backStuff.js"></script>
+  </body>
+</html>

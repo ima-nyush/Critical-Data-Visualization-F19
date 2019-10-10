@@ -1,0 +1,404 @@
+[
+    {
+        "day": "Tuesday",
+        "name": "Flo",
+        "complimentType": "Personality",
+        "medium": "WeChat"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Kristoffer",
+        "complimentType": "Personality",
+        "medium": "life"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Professor",
+        "complimentType": "Work",
+        "medium": "email"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Lana",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Viktoria",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Katrin",
+        "complimentType": "Appearance",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Flo",
+        "complimentType": "Personality",
+        "medium": "WeChat"
+    },
+    {
+        "day": "Tuesday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Wednesday",
+        "name": "Katrin",
+        "complimentType": "Personality",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Wednesday",
+        "name": "Professor",
+        "complimentType": "Work",
+        "medium": "life"
+    },
+    {
+        "day": "Wednesday",
+        "name": "Professor",
+        "complimentType": "Work",
+        "medium": "life"
+    },
+    {
+        "day": "Wednesday",
+        "name": "Amanda",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Wednesday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Thursday",
+        "name": "Lina",
+        "complimentType": "Personality",
+        "medium": "life"
+    },
+    {
+        "day": "Thursday",
+        "name": "Emily",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Thursday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "bar"
+    },
+    {
+        "day": "Thursday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "bar"
+    },
+    {
+        "day": "Thursday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "bar"
+    },
+    {
+        "day": "Thursday",
+        "name": "Viktoria's friend",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Friday",
+        "name": "Annija",
+        "complimentType": "Personality",
+        "medium": "WeChat"
+    },
+    {
+        "day": "Friday",
+        "name": "Mom",
+        "complimentType": "Personality",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Friday",
+        "name": "Alex",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Friday",
+        "name": "Annija",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Saturday",
+        "name": "Annija",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Saturday",
+        "name": "Tiril",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Ieva",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Amanda",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Vuk",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Edie",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Saturday",
+        "name": "Annija",
+        "complimentType": "Personality",
+        "medium": "life"
+    },
+    {
+        "day": "Sunday",
+        "name": "Alex",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Sunday",
+        "name": "Katrin",
+        "complimentType": "Personality",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Vuk",
+        "complimentType": "Birthday related",
+        "medium": "Facebook "
+    },
+    {
+        "day": "Sunday",
+        "name": "Renate",
+        "complimentType": "Birthday related",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Paula",
+        "complimentType": "Birthday related",
+        "medium": "Facebook "
+    },
+    {
+        "day": "Sunday",
+        "name": "Elvi",
+        "complimentType": "Birthday related",
+        "medium": "Facebook "
+    },
+    {
+        "day": "Sunday",
+        "name": "Raitis",
+        "complimentType": "Birthday related",
+        "medium": "Facebook "
+    },
+    {
+        "day": "Sunday",
+        "name": "Iris",
+        "complimentType": "Birthday related",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Mara",
+        "complimentType": "Birthday related",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Alberto",
+        "complimentType": "Birthday related",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Sara",
+        "complimentType": "Birthday related",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Tiril",
+        "complimentType": "Birthday related",
+        "medium": "Facebook "
+    },
+    {
+        "day": "Sunday",
+        "name": "Sasha",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Katrin",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Annika",
+        "complimentType": "Birthday related",
+        "medium": "iMessage"
+    },
+    {
+        "day": "Sunday",
+        "name": "Mom",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Dad",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Elita",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Grandma",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Katrin",
+        "complimentType": "Appearance",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Mom",
+        "complimentType": "Appearance",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Dad",
+        "complimentType": "Appearance",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Anna",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Sabine",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Sasha",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Krisztian",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Stranger",
+        "complimentType": "Appearance",
+        "medium": "Instagram"
+    },
+    {
+        "day": "Sunday",
+        "name": "Viktoria's friend",
+        "complimentType": "Appearance",
+        "medium": "life"
+    },
+    {
+        "day": "Sunday",
+        "name": "Lauris",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Luize",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Jennifer",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Christian",
+        "complimentType": "Birthday related",
+        "medium": "Facebook"
+    },
+    {
+        "day": "Sunday",
+        "name": "Patrick",
+        "complimentType": "Birthday related",
+        "medium": "Facebook"
+    },
+    {
+        "day": "Sunday",
+        "name": "Marta",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Valerija",
+        "complimentType": "Birthday related",
+        "medium": "WhatsApp"
+    },
+    {
+        "day": "Sunday",
+        "name": "Ulas",
+        "complimentType": "Birthday related",
+        "medium": "WeChat"
+    }
+]

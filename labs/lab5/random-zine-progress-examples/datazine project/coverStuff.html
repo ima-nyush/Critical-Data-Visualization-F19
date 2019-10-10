@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <!-- we are including the d3.js library. We load it
+right from the web into this html file. This allows us
+to use all the functions that d3 has defines for
+us in our own code. -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<link rel="stylesheet" href="styleCover.css">
+
+
+    <title>Middle spread</title>
+
+    <!-- Please leave this following line here -->
+    <script type="text/javascript" src="setup/setup.js"></script>
+
+
+  </head>
+  <body>
+
+    <!-- everything you create should be in the following container -->
+    <!-- Use D3 to place your svg(s) in it, too -->
+
+  <div id="container">
+
+    <svg width="1" height="1"
+         xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+         <filter id="blurMe">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" />
+          </filter>
+    </svg>
+
+    <!-- we put this div into place. later we use d3/js to
+    inseret a <svg> elment into it in which we then build
+    out visualization -->
+
+    <div id="viz-container2">
+
+<br>
+      <h2>One week of my life depicted in compliments</h2>
+<br>
+<p> Throughout the week I took notice and wrote down all of the compliments
+people gave me and the compliments I gave them.
+I wrote down the day, the person who gave me the compliment
+(or to whom I gave the compliment), the compliment type
+and the medium in which I received or gave the compliment.
+Based on my data set I decided to categorize my compliments if 4 categories
+- work, appearance, personality, and birthday related.
+Explained on this cover page is the key to reading my collected data.
+After this project I realized that I receive many more compliments than I give
+(even after taking into account that my birthday was on Sunday, which explains the
+huge amount of compiments I recieved then), which I have promised to myself to
+change and start giving people more compliments.
+</p>
+<br>
+
+<h3>How to read my compliment postcard:</h3>
+
+    </div>
+      </div>
+
+    <script type="text/javascript" src="coverStuff.js"></script>
+  </body>
+</html>

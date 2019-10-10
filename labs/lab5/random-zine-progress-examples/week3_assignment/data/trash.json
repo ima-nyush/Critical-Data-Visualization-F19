@@ -1,0 +1,2192 @@
+[
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "9:30",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "10:10",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "10:10",
+    "item": "straw",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "13:20",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "17:02",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "18:02",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "18:02",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "18:05",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "22:01",
+    "item": "food package",
+    "material": "paper",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "23:28",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "school"
+  },
+  {
+    "date": "10-Sep",
+    "day": "Tuesday",
+    "time": "23:28",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "7:50",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "7:50",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "8:40",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "9:30",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "9:30",
+    "item": "straw",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "10:54",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "13:22",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "12:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "12:40",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "16:02",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "18:24",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "18:24",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "school"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "22:20",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "milk",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "0:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "0:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "0:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "11-Sep",
+    "day": "Wednesday",
+    "time": "0:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "9:26",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "9:26",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "9:26",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "10:27",
+    "item": "fork",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "10:27",
+    "item": "straw",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "12:28",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "restaurant stay"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "18:24",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "recyclable",
+    "purpose": "coffee",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "21:48",
+    "item": "paper bag",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "12-Sep",
+    "day": "Thursday",
+    "time": "21:48",
+    "item": "cup",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "12:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "12:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "12:40",
+    "item": "tissue",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "12:40",
+    "item": "tissue",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "12:40",
+    "item": "package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "14:57",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "bottled water",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "16:20",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "16:20",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "17:36",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "subway station"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "17:36",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "subway station"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "17:36",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "subway station"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "19:47",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "19:47",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "19:47",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "13-Sep",
+    "day": "Friday",
+    "time": "21:40",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "home"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "2:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "10:30",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "brunch",
+    "location": "home"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "2:56",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "2:56",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "12:37",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "12:37",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "12:37",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "19:48",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "22:28",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "grocery",
+    "location": "takeout"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "23:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "14-Sep",
+    "day": "Saturday",
+    "time": "23:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "9:47",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "10:03",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "10:03",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "spoon",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "14:22",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "15-Sep",
+    "day": "Sunday",
+    "time": "20:06",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "9:30",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "10:10",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "coffee",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "13:17",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "13:17",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "13:17",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "13:48",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "school"
+  },
+  {
+    "date": "16-Sep",
+    "day": "Monday",
+    "time": "18:57",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "9:54",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "home"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "9:58",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "9:58",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "14:05",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "beverage",
+    "location": "office"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "16:30",
+    "item": "printing paper",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "sketch",
+    "location": "office"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "16:30",
+    "item": "printing paper",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "sketch",
+    "location": "office"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "16:30",
+    "item": "printing paper",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "sketch",
+    "location": "office"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "16:30",
+    "item": "printing paper",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "sketch",
+    "location": "office"
+  },
+  {
+    "date": "17-Sep",
+    "day": "Tuesday",
+    "time": "20:57",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "9:50",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "9:50",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "9:50",
+    "item": "cup sleeve",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "10:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "15:40",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "school"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "22:38",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "water",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "23:08",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "water",
+    "location": "home"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "23:49",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "18-Sep",
+    "day": "Wednesday",
+    "time": "23:49",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "9:06",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "subway station"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "9:06",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "subway station"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "11:30",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "12:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "12:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "14:40",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "15:26",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "15:26",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "17:48",
+    "item": "printing paper",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "sketch",
+    "location": "office"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "19:06",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "22:47",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "23:55",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "19-Sep",
+    "day": "Thursday",
+    "time": "23:55",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "10:04",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "10:04",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "12:20",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "office"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "15:20",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "office"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "15:48",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "15:48",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "18:08",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "21:57",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "21:57",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "21:57",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "22:48",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "22:48",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "22:48",
+    "item": "plastic bag",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "20-Sep",
+    "day": "Friday",
+    "time": "22:48",
+    "item": "plastic bag",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "10:30",
+    "item": "plastic bag",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "10:30",
+    "item": "plastic bag",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "shopping",
+    "location": "home"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "12:40",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:50",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "13:20",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "14:18",
+    "item": "straw",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "15:04",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "water",
+    "location": "school"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "water",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "straw",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "water",
+    "location": "takeout"
+  },
+  {
+    "date": "21-Sep",
+    "day": "Saturday",
+    "time": "20:48",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "takeout"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "8:22",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "9:04",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "10:54",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "11:04",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "water",
+    "location": "office"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "13:20",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "school"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "15:30",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "15:30",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "18:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "18:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "18:36",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "22:45",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "22-Sep",
+    "day": "Sunday",
+    "time": "22:45",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "9:30",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "9:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "10:30",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "12:50",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "12:50",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "12:50",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "12:50",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "12:50",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "school"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "14:48",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "14:48",
+    "item": "cup sleeve",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "18:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "23-Sep",
+    "day": "Monday",
+    "time": "19:20",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "9:20",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "9:20",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "10:04",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "recyclable",
+    "purpose": "tea",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "12:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "school"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "14:30",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "14:30",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "office"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "16:04",
+    "item": "bottle",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "office"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "cup",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "24-Sep",
+    "day": "Tuesday",
+    "time": "19:46",
+    "item": "straw",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "tea",
+    "location": "cafe/restaurant"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "2:00",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "2:00",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "10:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "home"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "11:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "cleaning",
+    "location": "school"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "11:40",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "school"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "14:30",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "school"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "18:52",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "school"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "22:09",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "22:09",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "22:09",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "25-Sep",
+    "day": "Wednesday",
+    "time": "22:09",
+    "item": "spoon",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "tissue",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "cup",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "food package",
+    "material": "paper",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "9:42",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "breakfast",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "12:30",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "snack",
+    "location": "barbor"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "13:36",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "13:36",
+    "item": "food package",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "13:36",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "dinner",
+    "location": "familyMart/store"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "14:33",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "14:33",
+    "item": "plastic bag",
+    "material": "plastic",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  },
+  {
+    "date": "26-Sep",
+    "day": "Thursday",
+    "time": "14:33",
+    "item": "chopstick",
+    "material": "wood",
+    "type": "residual",
+    "purpose": "lunch",
+    "location": "takeout"
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2019-09-09T16:00:00.000Z",
+        "haextremelyHappy": 256,
+        "wuextremelySad": 21,
+        "emojisForPositiveFeelings": 30,
+        "emojisForNegativeFeelings": 17,
+        "questionMark": 17
+    },
+    {
+        "date": "2019-09-10T16:00:00.000Z",
+        "haextremelyHappy": 464,
+        "wuextremelySad": 25,
+        "emojisForPositiveFeelings": 24,
+        "emojisForNegativeFeelings": 47,
+        "questionMark": 73
+    },
+    {
+        "date": "2019-09-11T16:00:00.000Z",
+        "haextremelyHappy": 391,
+        "wuextremelySad": 43,
+        "emojisForPositiveFeelings": 45,
+        "emojisForNegativeFeelings": 24,
+        "questionMark": 30
+    },
+    {
+        "date": "2019-09-12T16:00:00.000Z",
+        "haextremelyHappy": 294,
+        "wuextremelySad": 169,
+        "emojisForPositiveFeelings": 54,
+        "emojisForNegativeFeelings": 17,
+        "questionMark": 11
+    },
+    {
+        "date": "2019-09-13T16:00:00.000Z",
+        "haextremelyHappy": 155,
+        "wuextremelySad": 75,
+        "emojisForPositiveFeelings": 10,
+        "emojisForNegativeFeelings": 10,
+        "questionMark": 5
+    },
+    {
+        "date": "2019-09-14T16:00:00.000Z",
+        "haextremelyHappy": 233,
+        "wuextremelySad": 66,
+        "emojisForPositiveFeelings": 37,
+        "emojisForNegativeFeelings": 47,
+        "questionMark": 15
+    }
+
+]

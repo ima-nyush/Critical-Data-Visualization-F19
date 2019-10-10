@@ -1,0 +1,33 @@
+body{
+  width, height: 100%;
+  margin-left: 3%;
+  color: green;
+}
+
+#title1{
+  margin-left: 16%;
+  color: black;
+}
+
+#right:hover{
+    transition: all 0.5s ease-out;
+    width: 70px;
+}
+#right{
+  margin-top: 2%;
+  margin-left: 42.5%;
+}
+#left:hover{
+    transition: all 0.5s ease-out;
+    width: 70px;
+}
+#left{
+  margin-left: 42.5%;
+}
+#graph{
+  margin-left: 9.5%;
+}
+
+h2{
+  color:grey;
+}
