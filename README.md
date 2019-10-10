@@ -377,7 +377,7 @@ One-on-one reviews of projects progress.
 - [X] Jinzhong
 - [X] Robert
 - [X] Eric
-- [X] Thomas (not in class)
+- [ ] Thomas (not in class)
 - [X] Sarah
 - [X] Cyndi
 - [X] Kennedy
@@ -385,7 +385,7 @@ One-on-one reviews of projects progress.
 - [X] Jannie
 - [X] Yiqi
 - [X] Aleksandra
-- [X] Jerry (not in class)
+- [ ] Jerry (not in class)
 
 
 
@@ -406,6 +406,10 @@ Due Monday (2019/10/14):
 
 
 ## WEEK 6
+
+![data zine project presentations](other/assets/week6.jpg)
+
+
 ## WEEK 7
 ## WEEK 8
 ## WEEK 9
