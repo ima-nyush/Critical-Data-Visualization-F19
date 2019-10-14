@@ -49,7 +49,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 4 - [Prediction and Uncertainty](#week-4)
 - **Fall Break**
 - Week 5 - [Concept Review](#week-5)
-- Week 6 - Data Zine Project Presentations 🎉
+- Week 6 - [Data Zine Project Presentations 🎉](#week-5)
 - Week 7 - Data Ethics
 - Week 8 - Concept Review
 - Week 9 - Algorithmic decision-making & automating inequality
