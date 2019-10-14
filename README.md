@@ -417,14 +417,27 @@ discuss these **questions for 3-4 minutes**:
 - Why did you choose to visualize the data in this way?
 - What can be seen in the visualization? Does it reveal something you didn't expect?
 - Did you make crucial compromises? Which ones?
-- If this project had a larger scale, and wasn't built for print, how would you imagine it to be?
+- If this project had a larger scale and wasn't built for print, how would you imagine it to be?
 
 then, **2 minutes feedback** from the guest critics.
 
+#### Assignments:
+
+Due Monday (2019/10/21):
+- Listen to: *Radiolab: Right to be Forgotten* ([WNYC](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Apple Podcast](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Spotify](https://open.spotify.com/episode/6phgVP5EQejvEzV8q27ChO)). It's a very nice podcast, enjoy it, and make your own thoughts about what's a *fair* or *right* use of data in the described situations.
+- Find three articles that tell a story with data and data visualization.
+  - Supply links to the in a markdown file alongside 2-3 sentences eplaining what they are about.
+  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
+- Next week's Group Research Presentation:
+  - Eric, Jerry & Jinzhong
+  - see me after class
+
+
 ###### Random thoughts or references
 
-[D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
-[graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
+- [D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
+- [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
 
 ## WEEK 7
 ## WEEK 8
