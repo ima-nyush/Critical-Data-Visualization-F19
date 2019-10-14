@@ -49,7 +49,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 4 - [Prediction and Uncertainty](#week-4)
 - **Fall Break**
 - Week 5 - [Concept Review](#week-5)
-- Week 6 - [Data Zine Project Presentations 🎉](#week-5)
+- Week 6 - [Data Zine Project Presentations 🎉](#week-6)
 - Week 7 - Data Ethics
 - Week 8 - Concept Review
 - Week 9 - Algorithmic decision-making & automating inequality
@@ -431,7 +431,7 @@ Due Monday (2019/10/21):
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
 - Next week's Group Research Presentation:
   - Eric, Jerry & Jinzhong
-  - see me after class
+  - find the resources for your group research [here](/group-research/data-ethics).
 
 
 ###### Random thoughts or references
