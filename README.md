@@ -331,6 +331,7 @@ Due Monday (2019/10/07):
 ###### Optional/Related readings and resources:
 
 [*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
+[*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf), research article by RASHIDA RICHARDSON, JASON M. SCHULTZ & KATE CRAWFORD (2019)
 
 ### Wednesday Lab
 
@@ -409,6 +410,21 @@ Due Monday (2019/10/14):
 
 ![data zine project presentations](other/assets/week6.jpg)
 
+discuss these **questions for 3-4 minutes**:
+
+- What data did you choose to collect?
+- How did you collect it, what was the routine?
+- Why did you choose to visualize the data in this way?
+- What can be seen in the visualization? Does it reveal something you didn't expect?
+- Did you make crucial compromises? Which ones?
+- If this project had a larger scale, and wasn't built for print, how would you imagine it to be?
+
+then, **2 minutes feedback** from the guest critics.
+
+###### Random thoughts or references
+
+[D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
+[graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
 
 ## WEEK 7
 ## WEEK 8
