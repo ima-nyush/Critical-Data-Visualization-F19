@@ -35,6 +35,3 @@ Discussion points should include, **but are not limited to**:
 - "[*How Trump Consultants Exploited the Facebook Data of Millions*](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html)", New York Times, Matthew Rosenberg, Nicholas Confessore and Carole Cadwalladr, 2018
 - "[*Cambridge Analytica and Our Lives Inside the Surveillance Machine*](https://www.newyorker.com/tech/annals-of-technology/cambridge-analytica-and-our-lives-inside-the-surveillance-machine)", The New Yorker, Adrian Chen, 2018
 - "[*Use our personal data for the common good*](https://www.nature.com/magazine-assets/d41586-018-03912-z/d41586-018-03912-z.pdf)", Hetan Shah, Nature Journal, 2018
-
-
-**\*** pdf from Leon
