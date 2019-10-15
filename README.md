@@ -425,7 +425,7 @@ then, **2 minutes feedback** from the guest critics.
 
 Due Monday (2019/10/21):
 - Listen to: *Radiolab: Right to be Forgotten* ([WNYC](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Apple Podcast](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Spotify](https://open.spotify.com/episode/6phgVP5EQejvEzV8q27ChO)). It's a very nice podcast, enjoy it, and make your own thoughts about what's a *fair* or *right* use of data in the described situations.
-- Find three articles that tell a story with data and data visualization.
+- Find *two* articles that tell a story with data and data visualization.
   - Supply links to the in a markdown file alongside 2-3 sentences eplaining what they are about.
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
