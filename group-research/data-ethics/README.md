@@ -26,7 +26,7 @@ Discussion points should include, **but are not limited to**:
 [Advice on how to hold better class discussions](https://www.chronicle.com/interactives/20190523-ClassDiscussion)
 
 ### Resources:
-- "[*The Trust Engineers*](https://www.wnycstudios.org/podcasts/radiolab/articles/trust-engineers)", Radiolab (podcast) episode, 2015
+- "[*The Trust Engineers*](https://www.wnycstudios.org/podcasts/radiolab/articles/trust-engineers)", Radiolab (podcast) episode, 2015 ([transcript](https://www.listennotes.com/podcasts/radiolab/the-trust-engineers-F0JiQAZEOwg/#transcript))
 - "[*Untangling research and practice: What Facebook’s “emotional contagion” study teaches us*](https://journals.sagepub.com/doi/pdf/10.1177/1747016115583379)", danah boyd, 2016
 - "[*Everything We Know About Facebook's Secret Mood Manipulation Experiment*](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/)", The Atlantic, Robinson Meyer, 2014
 - "[*The Test We Can—and Should—Run on Facebook*](https://www.theatlantic.com/technology/archive/2014/07/the-test-we-canand-shouldrun-on-facebook/373819/)"
