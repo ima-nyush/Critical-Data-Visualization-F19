@@ -439,6 +439,22 @@ Due Monday (2019/10/21):
 - [D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
 - [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
 
+### Wednesday Lab
+
+- "[*The best stats you have ever seen*](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en)", Hans Rosling (start at 2:30)
+- Build an abstract, dynamic visualization together
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab6)
+
+#### Assignments:
+
+Due Wednesday (2019/10/23):
+- Read the following (short) write-ups by Mike Bostock, note down any questions you have
+  - [Thinking with Joins](https://bost.ocks.org/mike/join/)
+  - [General Update Pattern, I](https://bl.ocks.org/mbostock/3808218)
+  - [General Update Pattern, II](https://bl.ocks.org/mbostock/3808221)
+  - [General Update Pattern, III](https://bl.ocks.org/mbostock/3808234)
+
 ## WEEK 7
 ## WEEK 8
 ## WEEK 9
