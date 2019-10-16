@@ -454,6 +454,7 @@ Due Wednesday (2019/10/23):
   - [General Update Pattern, I](https://bl.ocks.org/mbostock/3808218)
   - [General Update Pattern, II](https://bl.ocks.org/mbostock/3808221)
   - [General Update Pattern, III](https://bl.ocks.org/mbostock/3808234)
+- Instructions for this week's Coding Exercise can be found [here](labs/lab6/assignment).
 
 ## WEEK 7
 ## WEEK 8
