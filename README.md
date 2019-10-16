@@ -426,7 +426,7 @@ then, **2 minutes feedback** from the guest critics.
 Due Monday (2019/10/21):
 - Listen to: *Radiolab: Right to be Forgotten* ([WNYC](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Apple Podcast](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Spotify](https://open.spotify.com/episode/6phgVP5EQejvEzV8q27ChO)). It's a very nice podcast, enjoy it, and make your own thoughts about what's a *fair* or *right* use of data in the described situations.
 - Find **two** articles that tell a story with data and data visualization.
-  - Supply links to the in a markdown file alongside 2-3 sentences eplaining what they are about.
+  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to [the class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)).
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
 - Next week's Group Research Presentation:
@@ -457,6 +457,7 @@ Due Wednesday (2019/10/23):
 - Instructions for this week's Coding Exercise can be found [here](labs/lab6/assignment).
   - in short, it's about altering this Lab's in-class coding to behave like this:
   ![lab6assignmentsmall](other/assets/lab6assignmentsmall.gif)
+  - push and submit your finished exercise to [the class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Coding-Exercise:-Update-Transition-(week7))
 
 ## WEEK 7
 ## WEEK 8
