@@ -4,6 +4,7 @@
 #### today's agenda
 - Intro: "[*The best stats you have ever seen*](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en)", Hans Rosling (start at 2:30)
 - Build an abstract, dynamic visualization together
+  - [preview 1](https://cdv.leoneckert.com/lab6/preview1) (what we will NOT build)
   - [preview 1](https://cdv.leoneckert.com/lab6/preview1)
   - [preview 2](https://cdv.leoneckert.com/lab6/preview2)
   - [preview 3](https://cdv.leoneckert.com/lab6/preview3)
