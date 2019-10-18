@@ -32,7 +32,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
 ||**Fall Break**||
 |**5**|[Concept Review](#week-5)|Old bits, new bits: scales, data functions, axis, filter method|
-|**6**|Data Zine Project Presentations 🎉||
+|**6**|Data Zine Project Presentations 🎉|Introducing: Time. Update transitions|
 |**7**|Data Ethics||
 |**8**|Concept Review||
 |**9**|Algorithmic decision-making & automating inequality||
