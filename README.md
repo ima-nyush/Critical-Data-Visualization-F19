@@ -466,7 +466,7 @@ Due Wednesday (2019/10/23):
 
 - [Ethics: presentation and discussion](/group-research/data-ethics) by Eric, Jerry and Jinzhong.
 - Discussing *Radiolab: Right to be Forgotten*.
-- Go through [submitted articles](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)
+- Go through [submitted articles](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7))
     - mention scraping, [example](https://projects.christianlaesser.com/travel-visa-inequality/)
 
 
