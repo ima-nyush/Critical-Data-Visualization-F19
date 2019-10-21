@@ -165,8 +165,8 @@ Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
 - [ ] Yiqi, Philis & Cindy
 - [ ] Jerry, Kevin & Jinzhong
-- [ ] Kennedy & Sarah
-- [X] Aleksandra, Jannie & Thomas
+- [ ] Kennedy, Sarah & Thomas (added here)
+- [X] Aleksandra & Jannie (Thomas missed this)
 
 ###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
 
@@ -466,7 +466,7 @@ Due Wednesday (2019/10/23):
 
 - [Ethics: presentation and discussion](/group-research/data-ethics) by Eric, Jerry and Jinzhong.
 - Discussing *Radiolab: Right to be Forgotten*.
-- Go through submitted articles
+- Go through [submitted articles](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)
     - mention scraping, [example](https://projects.christianlaesser.com/travel-visa-inequality/)
 
 
@@ -478,24 +478,29 @@ Due Wednesday (2019/10/23):
   - After that, as your final project (Week 14), you will create a multi-page website: your **Data Story**. It must include at least two interactive data visualizations as well as contextual information (mainly from your Work in Progress presentation).
 
 
-- The plan
+- **The Plan**
   - **Pre-select datasets**
     - due this Wednesday
-    - see this week's assignment section below. 
-
+    - see this week's assignment section below.
   - **Commit to a dataset**
+    - this will happen next Monday.
   - **Contextual Research**
+    - presented in Week 10.
   - **Build of a web based Data Story**
-
-
+    - presented in Week 14.
 
 
 #### Assignments:
 
 Due **this** Wednesday (2019/10/23):
-- This week you will take a serious dive into the datasets that are out there (or the ones that seem possible to create through collection or scraping methods).
-  - Dedicate time to this research, find something that you feel truly connected to and inspired by. Why? Because you will spend about five weeks dealing with the subject you choose.
-  - see this week's assignment
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+    - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki) by Wednesday.
+  - Find some sources for datasets in our [Resource](https://github.com/leoneckert/cdv-fall19/tree/master/other/resources) page.
+    - if you find other cool sources (both english and chinese), consider [submitting them to a collection](https://forms.gle/66oLcntJBgvC3sQaA) I have started 😊
+  - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about five weeks dealing with the subject you choose, pick something exciting.
+  - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
+
 
 ###### Optional/Related readings and resources:
 
