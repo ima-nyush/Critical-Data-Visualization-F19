@@ -474,7 +474,7 @@ Due Wednesday (2019/10/23):
   - The final project is **a story that emerges from and is told alongside a dataset** (or several).
     - Inspiration can be found in the articles you collectively [gathered this week](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)).
     - To tell the story you will have to become **deeply familiar with a dataset** that you choose (or create): not only with its **technical structure**, but also its **context**, its **origin**, the **information it does/does not carry**, the **insights** it provides and **controversies** it might fuel.
-  - You will present the contextual research part of this project in a 5 minute **Work in Progress / Context Presentation** in Week 10. You are expected to demonstrate your research abilities, not your technical expertise. *What is the story that you are telling?*
+  - You will present the contextual research part of this project in a 5 minute **Work in Progress / Context Presentation** (using slides) in Week 10. You are expected to demonstrate your research abilities, not your technical expertise. *What is the story that you are telling?*
   - After that, as your final project (Week 14), you will create a multi-page website: your **Data Story**. It must include at least two interactive data visualizations as well as contextual information (mainly from your Work in Progress presentation).
 
 
