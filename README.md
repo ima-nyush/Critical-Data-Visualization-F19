@@ -11,7 +11,6 @@ Welcome! This page will be filled with material and links throughout the Semeste
 ##### Other:
 
 - [Resources](other/resources)
-- **Brief for Data Zine Project**
 
 #### Course Description
 Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
@@ -50,7 +49,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - **Fall Break**
 - Week 5 - [Concept Review](#week-5)
 - Week 6 - [Data Zine Project Presentations 🎉](#week-6)
-- Week 7 - Data Ethics
+- Week 7 - [Data Ethics](#week-7)
 - Week 8 - Concept Review
 - Week 9 - Algorithmic decision-making & automating inequality
 - Week 10 - Data Story: Work in Progress Presentations 📚
@@ -460,6 +459,47 @@ Due Wednesday (2019/10/23):
   - push and submit your finished exercise to [the class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Coding-Exercise:-Update-Transition-(week7))
 
 ## WEEK 7
+
+<!-- ![](other/assets/) -->
+
+### Monday Class
+
+- [Ethics: presentation and discussion](/group-research/data-ethics) by Eric, Jerry and Jinzhong.
+- Discussing *Radiolab: Right to be Forgotten*.
+- Go through submitted articles
+    - mention scraping, [example](https://projects.christianlaesser.com/travel-visa-inequality/)
+
+
+- Project Announcement: **Data Story Project** (Week 14) and **Work in Progress / Context Presentation** (Week (10)
+  - The final project is **a story that emerges from and is told alongside a dataset** (or several).
+    - Inspiration can be found in the articles you collectively [gathered this week](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)).
+    - To tell the story you will have to become **deeply familiar with a dataset** that you choose (or create): not only with its **technical structure**, but also its **context**, its **origin**, the **information it does/does not carry**, the **insights** it provides and **controversies** it might fuel.
+  - You will present the contextual research part of this project in a 5 minute **Work in Progress / Context Presentation** in Week 10. You are expected to demonstrate your research abilities, not your technical expertise. *What is the story that you are telling?*
+  - After that, as your final project (Week 14), you will create a multi-page website: your **Data Story**. It must include at least two interactive data visualizations as well as contextual information (mainly from your Work in Progress presentation).
+
+
+- The plan
+  - **Pre-select datasets**
+    - due this Wednesday
+    - see this week's assignment section below. 
+
+  - **Commit to a dataset**
+  - **Contextual Research**
+  - **Build of a web based Data Story**
+
+
+
+
+#### Assignments:
+
+Due **this** Wednesday (2019/10/23):
+- This week you will take a serious dive into the datasets that are out there (or the ones that seem possible to create through collection or scraping methods).
+  - Dedicate time to this research, find something that you feel truly connected to and inspired by. Why? Because you will spend about five weeks dealing with the subject you choose.
+  - see this week's assignment
+
+###### Optional/Related readings and resources:
+
+
 ## WEEK 8
 ## WEEK 9
 ## WEEK 10
