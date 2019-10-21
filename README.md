@@ -489,6 +489,8 @@ Due Wednesday (2019/10/23):
   - **Build of a web based Data Story**
     - presented in Week 14.
 
+###### random question:
+who has used Node before?
 
 #### Assignments:
 
@@ -506,6 +508,9 @@ Due **this** Wednesday (2019/10/23):
 
 
 ## WEEK 8
+
+<!-- maybe a node script to clean code? -->
+
 ## WEEK 9
 ## WEEK 10
 ## WEEK 11
