@@ -506,6 +506,32 @@ Due **this** Wednesday (2019/10/23):
 
 ###### Optional/Related readings and resources:
 
+### Wednesday Lab
+
+- Dynamic Visualization, Part 2 (advanced)
+- The three different selections
+  - **Update**
+  - **Enter**
+  - **Exit**
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab7)
+
+#### Assignments:
+
+Due Wednesday (2019/10/23):
+- Read carefully through the Lab, maybe multiple times.
+- Finish the website we have started to build in class making all the buttons functional
+  - the last button is a *wild* one, make it to unexpected things
+  - when you are done, push and submit to the class wiki
+- when you have mastered it
+  - please be playful, transitions are fun, change colors, positions, text, and more.
+  - the transition can also animate differently, take a look here (do this after you have achieved all the other parts):
+    - [transitions](https://github.com/d3/d3-transition)
+    - [transition ease](https://github.com/d3/d3-transition#transition_ease)
+    - [ease functions](https://github.com/d3/d3-ease)
+    - [ease examples](https://observablehq.com/@d3/easing-animations?collection=@d3/d3-ease)
+
+![lab7](other/assets/lab7.gif)
 
 ## WEEK 8
 
