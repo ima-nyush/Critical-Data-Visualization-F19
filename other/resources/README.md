@@ -31,3 +31,6 @@
 - [Data Portal Germany](https://www.govdata.de/)
 - [List of international government Data Portals](gov-data-portals) (I downloaded this list from [here](https://www.data.gov/open-gov/))
 - [reddit.com/r/datasets](https://www.reddit.com/r/datasets/) (I suspect interesting finds on there, go dive into it)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
+\*Thanks for contributing, Thomas!

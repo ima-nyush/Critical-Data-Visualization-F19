@@ -436,7 +436,7 @@ Due Monday (2019/10/21):
 ###### Random thoughts or references
 
 - [D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
-- [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
+- [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!") ([add-on](https://twitter.com/karim_douieb/status/1186229919182966785))
 
 ### Wednesday Lab
 
