@@ -164,7 +164,7 @@ Announcement: Data Zine
 Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
 - [ ] Yiqi, Philis & Cindy
-- [ ] Jerry, Kevin & Jinzhong
+- [X] Jerry, Kevin & Jinzhong
 - [ ] Kennedy, Sarah & Thomas (added here)
 - [X] Aleksandra & Jannie (Thomas missed this)
 
@@ -531,7 +531,7 @@ Due Wednesday (2019/10/23):
     - [ease functions](https://github.com/d3/d3-ease)
     - [ease examples](https://observablehq.com/@d3/easing-animations?collection=@d3/d3-ease)
 
-![lab7](other/assets/lab7.gif)
+![lab7assignmentsmall](other/assets/lab7assignmentsmall.gif)
 
 ## WEEK 8
 
