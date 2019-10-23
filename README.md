@@ -460,7 +460,7 @@ Due Wednesday (2019/10/23):
 
 ## WEEK 7
 
-<!-- ![](other/assets/) -->
+![week7.jpg](other/assets/week7.jpg)
 
 ### Monday Class
 
