@@ -10,6 +10,7 @@ Welcome! This page will be filled with material and links throughout the Semeste
 
 ##### Other:
 
+- [Current Assignments](other/current-assignments) (assignments posted here, too. Please let me know if I forgot to update any of the two, thanks!)
 - [Resources](other/resources)
 
 #### Course Description
@@ -542,19 +543,19 @@ Due Wednesday (2019/10/23):
 
 One-on-one reviews of the concepts for the next project.
 
-- [ ] Yiqi
-- [ ] Sarah
-- [ ] Eszter
-- [ ] Jinzhong
-- [ ] Cyndi
-- [ ] Aleksandra
-- [ ] Jerry
-- [ ] Eric
-- [ ] Jannie
-- [ ] Thomas
-- [ ] Kennedy
-- [ ] Phyllis
-- [ ] Robert
+- [X] Yiqi
+- [X] Sarah
+- [X] Eszter
+- [X] Jinzhong
+- [X] Cyndi
+- [X] Aleksandra
+- [X] Jerry
+- [X] Eric
+- [X] Jannie
+- [X] Thomas
+- [X] Kennedy
+- [X] Phyllis
+- [X] Robert
 
 
 #### Assignments:
