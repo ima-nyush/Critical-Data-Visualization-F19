@@ -568,6 +568,10 @@ Due Monday (2019/11/04):
     - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
     - practice your text and its timing (email it to me by Sunday if that helps)
 
+- Next week's Group Research Presentation:
+  - Kennedy, Sarah & Thomas
+  - find the resources for your group research [here](/group-research/automating-inequality).
+
 
 ###### Optional/Related readings and resources:
 
