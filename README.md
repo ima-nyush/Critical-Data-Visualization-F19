@@ -163,7 +163,7 @@ Announcement: Data Zine
 
 Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
-- [ ] Yiqi, Philis & Cindy
+- [ ] Yiqi, Phyllis & Cyndi
 - [X] Jerry, Kevin & Jinzhong
 - [ ] Kennedy, Sarah & Thomas (added here)
 - [X] Aleksandra & Jannie (Thomas missed this)
@@ -331,6 +331,7 @@ Due Monday (2019/10/07):
 
 [*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
 [*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf), research article by RASHIDA RICHARDSON, JASON M. SCHULTZ & KATE CRAWFORD (2019)
+[Data Humanism, The Revolution will be Visualized.](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold/), Georgia Lupi
 
 ### Wednesday Lab
 
@@ -534,6 +535,41 @@ Due Wednesday (2019/10/23):
 ![lab7assignmentsmall](other/assets/lab7assignmentsmall.gif)
 
 ## WEEK 8
+
+![week8.jpg](other/assets/week8.jpg)
+
+### Monday Class
+
+One-on-one reviews of the concepts for the next project.
+
+- [ ] Yiqi
+- [ ] Sarah
+- [ ] Eszter
+- [ ] Jinzhong
+- [ ] Cyndi
+- [ ] Aleksandra
+- [ ] Jerry
+- [ ] Eric
+- [ ] Jannie
+- [ ] Thomas
+- [ ] Kennedy
+- [ ] Phyllis
+- [ ] Robert
+
+
+#### Assignments:
+
+Due Monday (2019/11/04):
+- Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).
+  - Note down your thoughts and opinions to discuss them next class.
+- Prepare a short presentation about your project's subject for next classes:
+  - Each of you will present their topic in this format:
+    - 5 slides that can only contain images
+    - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+    - practice your text and its timing (email it to me by Sunday if that helps)
+
+
+###### Optional/Related readings and resources:
 
 <!-- maybe a node script to clean code? -->
 
