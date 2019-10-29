@@ -32,7 +32,7 @@ Read through the sources supplied below. Discuss them amongst yourself and takes
 [Advice on how to hold better class discussions](https://www.chronicle.com/interactives/20190523-ClassDiscussion)
 
 ### Resources:
-- Introduction of [*THE SCORED SOCIETY: DUE PROCESS FOR
+- Introduction (only the intro, super short!) of [*THE SCORED SOCIETY: DUE PROCESS FOR
 AUTOMATED PREDICTIONS*](http://digital.law.washington.edu/dspace-law/bitstream/handle/1773.1/1318/89WLR0001.pdf), D K Citron, F Pasquale (2014)
 - Introduction: *Red Flags*, [*Automating Inequality*](https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250074312), Virginia Eubanks (2018) *
 - Chapter 1: *From Poorhouse to Database*, [*Automating Inequality*](https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250074312), Virginia Eubanks (2018) *
