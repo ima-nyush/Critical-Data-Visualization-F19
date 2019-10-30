@@ -578,6 +578,20 @@ Due Monday (2019/11/04):
 
 <!-- maybe a node script to clean code? -->
 
+### Wednesday Lab
+
+- Review "Enter, Update, Exit" Coding exercise
+- Generators, Components & Layouts
+- Line Exercise
+
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab8)
+
+#### Assignments:
+
+Due Wednesday (2019/11/06):
+- TBD
+
 ## WEEK 9
 ## WEEK 10
 ## WEEK 11

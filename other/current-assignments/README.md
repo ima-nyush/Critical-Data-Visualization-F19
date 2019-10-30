@@ -2,6 +2,9 @@
 
 I try to copy assignments from the [main page](../../) to this place. Please point out to be if I fail to keep it updated. Thanks!
 
+##### Due Wednesday (2019/11/06):
+- TBD
+
 ##### Due Monday (2019/11/04):
 - Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).
   - Note down your thoughts and opinions to discuss them next class.
