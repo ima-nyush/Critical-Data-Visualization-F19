@@ -590,7 +590,10 @@ Due Monday (2019/11/04):
 #### Assignments:
 
 Due Wednesday (2019/11/06):
-- TBD
+- Create a "quick and dirty" visualization using the data you have chosen to use for your project.
+  - The focus of this exercise is to make your data workable.
+  - Include at least one transition.
+  - Be as simple or fancy as you desire in the design of your visualization. 
 
 ## WEEK 9
 ## WEEK 10

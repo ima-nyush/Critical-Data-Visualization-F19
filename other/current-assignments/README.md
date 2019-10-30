@@ -3,7 +3,10 @@
 I try to copy assignments from the [main page](../../) to this place. Please point out to be if I fail to keep it updated. Thanks!
 
 ##### Due Wednesday (2019/11/06):
-- TBD
+- Create a "quick and dirty" visualization using the data you have chosen to use for your project.
+  - The focus of this exercise is to make your data workable.
+  - Include at least one transition.
+  - Be as simple or fancy as you desire in the design of your visualization.
 
 ##### Due Monday (2019/11/04):
 - Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).
