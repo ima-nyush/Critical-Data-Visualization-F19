@@ -51,7 +51,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 5 - [Concept Review](#week-5)
 - Week 6 - [Data Zine Project Presentations 🎉](#week-6)
 - Week 7 - [Data Ethics](#week-7)
-- Week 8 - Concept Review
+- Week 8 - [Concept Review](#week-8)
 - Week 9 - Algorithmic decision-making & automating inequality
 - Week 10 - Data Story: Work in Progress Presentations 📚
 - Week 11 - Surveillance Capitalism
@@ -593,7 +593,7 @@ Due Wednesday (2019/11/06):
 - Create a "quick and dirty" visualization using the data you have chosen to use for your project.
   - The focus of this exercise is to make your data workable.
   - Include at least one transition.
-  - Be as simple or fancy as you desire in the design of your visualization. 
+  - Be as simple or fancy as you desire in the design of your visualization.
 
 ## WEEK 9
 ## WEEK 10
