@@ -18,6 +18,11 @@
 - [Comparative Perspectives - Heights of Mountains, Lengths of Rivers](http://bibliodyssey.blogspot.com/2008/10/river-deep-mountain-high.html)
 - [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
 - [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
+- ["Chart about the world through the eyes of the US"]https://pudding.cool/2018/12/countries/
+
+### Infos
+
+- [Data Rules Everything Around Me](http://dream.netizen.org/)
 
 ### Data Sources
 > if you come across **good or fun data sources**, [click here](https://forms.gle/66oLcntJBgvC3sQaA) to share them with us. Thanks! 🐙
@@ -32,5 +37,8 @@
 - [List of international government Data Portals](gov-data-portals) (I downloaded this list from [here](https://www.data.gov/open-gov/))
 - [reddit.com/r/datasets](https://www.reddit.com/r/datasets/) (I suspect interesting finds on there, go dive into it)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+- [New York City Taxi and For-Hire Vehicle Data](https://github.com/toddwschneider/nyc-taxi-data)\
+- [Peking University Open Research Data Platform](https://opendata.pku.edu.cn/)
+- [Statista](https://www.statista.com/)
 
-\*Thanks for contributing, Thomas!
+\*Thanks for contributing, Thomas, Phyllis!

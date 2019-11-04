@@ -52,7 +52,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 6 - [Data Zine Project Presentations 🎉](#week-6)
 - Week 7 - [Data Ethics](#week-7)
 - Week 8 - [Concept Review](#week-8)
-- Week 9 - Algorithmic decision-making & automating inequality
+- Week 9 - [Automating inequality](#week-9)
 - Week 10 - Data Story: Work in Progress Presentations 📚
 - Week 11 - Surveillance Capitalism
 - Week 12 - Concept Review
@@ -596,6 +596,35 @@ Due Wednesday (2019/11/06):
   - Be as simple or fancy as you desire in the design of your visualization.
 
 ## WEEK 9
+
+![week9.jpg](other/assets/week9.jpg)
+
+### Monday Class
+
+- [Automating Inequality: presentation and discussion](/group-research/automating-inequality) by Kennedy, Sarah & Thomas.
+- 5x20seconds *what's it all about?* **presentations** ([slides](https://docs.google.com/presentation/d/1pYah-hXlrlU4Z7Jc74SZgdlIwxZtYrdaob-QXEh2pNw/edit?usp=sharing))
+- Data Story: Work in Progress Presentations. ([slides](https://docs.google.com/presentation/d/1Tf8uFBpV1EsGzS-fqMbOSfryAwuczf9w6FIsmHcwyT4/edit?usp=sharing))
+
+
+
+#### Assignments:
+
+Due Monday (2019/11/11):
+- On Monday, Novebmer 11th, your **Data Story: Work in Progress Presentations** is due.
+  - you picked a dataset, for next week, research thoroughly about its **context**, its **origin**, the **information it does/does not carry**, the **insights** it might provide and **controversies** it could fuel.
+  - prepare a 4 minute presentation
+    - take [this]((https://docs.google.com/presentation/d/1Tf8uFBpV1EsGzS-fqMbOSfryAwuczf9w6FIsmHcwyT4/edit?usp=sharing)) as a guide (see also below gif)
+    - if you plan to **not** use Google Slides, please let me know by Friday
+    - share a link to your slides with me by 11/11 noon.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+
+
+![guide-to-wip.gif](other/assets/guide-to-wip.gif)
+
+
+
+###### Optional/Related readings and resources:
+
 ## WEEK 10
 ## WEEK 11
 ## WEEK 12

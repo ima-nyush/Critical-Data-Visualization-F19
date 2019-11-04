@@ -8,7 +8,20 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
   - Include at least one transition.
   - Be as simple or fancy as you desire in the design of your visualization.
 
-##### Due Monday (2019/11/04):
+##### Due Monday (2019/11/11):
+- On Monday, November 11th, your **Data Story: Work in Progress Presentations** is due.
+  - you picked a dataset, for next week, research thoroughly about its **context**, its **origin**, the **information it does/does not carry**, the **insights** it might provide and **controversies** it could fuel.
+  - prepare a 4 minute presentation
+    - take [this]((https://docs.google.com/presentation/d/1Tf8uFBpV1EsGzS-fqMbOSfryAwuczf9w6FIsmHcwyT4/edit?usp=sharing)) as a guide (see also below gif)
+    - if you plan to **not** use Google Slides, please let me know by Friday
+    - share a link to your slides with me by 11/11 noon.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+
+
+![guide-to-wip.gif](../assets/guide-to-wip.gif)
+
+
+<!-- ##### Due Monday (2019/11/04):
 - Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).
   - Note down your thoughts and opinions to discuss them next class.
 - Prepare a short presentation about your project's subject for next classes:
@@ -19,7 +32,7 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
 
 - Next week's Group Research Presentation:
   - Kennedy, Sarah & Thomas
-  - find the resources for your group research [here](/group-research/automating-inequality).
+  - find the resources for your group research [here](/group-research/automating-inequality). -->
 
 <!-- ##### Due Wednesday (2019/10/23):
 - Read carefully through the Lab, maybe multiple times.
