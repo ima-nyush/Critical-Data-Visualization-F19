@@ -116,7 +116,7 @@ Due Monday (2019/09/09):
 - [*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
 
 
-*online version accessible through NYU library
+\*online version accessible through NYU library
 
 ### Wednesday Lab
 
@@ -166,7 +166,7 @@ Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
 - [ ] Yiqi, Phyllis & Cyndi
 - [X] Jerry, Kevin & Jinzhong
-- [ ] Kennedy, Sarah & Thomas (added here)
+- [X] Kennedy, Sarah & Thomas (added here)
 - [X] Aleksandra & Jannie (Thomas missed this)
 
 ###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
