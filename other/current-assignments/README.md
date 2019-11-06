@@ -2,11 +2,7 @@
 
 I try to copy assignments from the [main page](../../) to this place. Please point out to be if I fail to keep it updated. Thanks!
 
-##### Due Wednesday (2019/11/06):
-- Create a "quick and dirty" visualization using the data you have chosen to use for your project.
-  - The focus of this exercise is to make your data workable.
-  - Include at least one transition.
-  - Be as simple or fancy as you desire in the design of your visualization.
+
 
 ##### Due Monday (2019/11/11):
 - On Monday, November 11th, your **Data Story: Work in Progress Presentations** is due.
@@ -17,9 +13,26 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
     - share a link to your slides with me by 11/11 noon.
     - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
 
-
 ![guide-to-wip.gif](../assets/guide-to-wip.gif)
 
+
+##### Due Wednesday (2019/11/13):
+- Create a paper prototype for your Data Story Project
+  - Download template here: [horizontal](../material/horizontal-data-story-prototype.pdf) or [vertical](../material/vertical-data-story-prototype.pdf) layout.
+    - Print the in **A3 Format**.
+    - You can use multiple printouts for different pages of your website.
+  - Use the space around to browser for annotations and further explanations of your website.
+    - this should cover interaction, transition, movements, sounds, special effects.
+  - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki.
+
+
+
+
+<!-- ##### Due Wednesday (2019/11/06):
+- Create a "quick and dirty" visualization using the data you have chosen to use for your project.
+  - The focus of this exercise is to make your data workable.
+  - Include at least one transition.
+  - Be as simple or fancy as you desire in the design of your visualization. -->
 
 <!-- ##### Due Monday (2019/11/04):
 - Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).

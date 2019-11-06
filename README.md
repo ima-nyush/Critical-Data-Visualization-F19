@@ -629,7 +629,7 @@ Due Monday (2019/11/11):
 
 - Important Info for next week's **Data Story: Work in Progress Presentations**
   - Significance
-  - Next Semester this assignment will include a written part. This semester it will not because I want to stick to the syllabus. However, [the structure of the (future) writing assignment](data-story-research-write-up) should help you to know what I expect you to cover.
+  - Next Semester this assignment will include a written part. This semester it will not because I want to stick to the syllabus. However, [the structure of the (future) writing assignment](other/data-story-research-write-up) should help you to know what I expect you to cover.
 - Check out your homework
 - Coding
   - From Line to Map
@@ -648,7 +648,13 @@ Due Monday (2019/11/11):
 #### Assignments:
 
 Due Wednesday (2019/11/13):
-- Paper Protoype :)
+- Create a paper prototype for your Data Story Project
+  - Download template here: [horizontal](other/material/horizontal-data-story-prototype.pdf) or [vertical](other/material/vertical-data-story-prototype.pdf) layout.
+    - Print the in **A3 Format**.
+    - You can use multiple printouts for different pages of your website.
+  - Use the space around to browser for annotations and further explanations of your website.
+    - this should cover interaction, transition, movements, sounds, special effects.
+  - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki.
 
 ## WEEK 10
 ## WEEK 11
