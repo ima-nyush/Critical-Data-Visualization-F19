@@ -648,7 +648,7 @@ Due Monday (2019/11/11):
 #### Assignments:
 
 Due Wednesday (2019/11/13):
-- 
+- Paper Protoype :)
 
 ## WEEK 10
 ## WEEK 11
