@@ -622,8 +622,33 @@ Due Monday (2019/11/11):
 ![guide-to-wip.gif](other/assets/guide-to-wip.gif)
 
 
-
 ###### Optional/Related readings and resources:
+
+
+### Wednesday Lab
+
+- Important Info for next week's **Data Story: Work in Progress Presentations**
+  - Significance
+  - Next Semester this assignment will include a written part. This semester it will not because I want to stick to the syllabus. However, [the structure of the (future) writing assignment](data-story-research-write-up) should help you to know what I expect you to cover.
+- Check out your homework
+- Coding
+  - From Line to Map
+  - Line Review
+    - [download](labs/lab9/line-to-map/line-to-map.zip) starting code
+  - Map
+    - geojson
+      - find one!
+    - Projections
+      - [jasondavies.com/maps](https://www.jasondavies.com/maps/voronoi/airports/)
+      - [Map Projections in ArcGIS](https://storymaps.arcgis.com/stories/ea0519db9c184d7e84387924c84b703f) (not all available in D3)
+    - d3.geoPath()
+
+[The Lab](labs/lab9)
+
+#### Assignments:
+
+Due Wednesday (2019/11/13):
+- 
 
 ## WEEK 10
 ## WEEK 11

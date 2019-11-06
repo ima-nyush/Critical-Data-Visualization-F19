@@ -7,6 +7,7 @@
 - [Full D3 reference](https://github.com/d3/d3/wiki)
 - [D3 Selection Documentation](https://github.com/d3/d3-selection)
 - [Check what's wrong with your JSON file here](https://jsonlint.com/)
+- Mapping: coordinate tool: [teczno.com/squares](http://teczno.com/squares/)
 
 ### General JS
 - [Array Methods (to format/clean/restructure data)](https://dev.to/thegamefreak720/how-not-to-be-scared-of-js-array-methods-foreach-map-filter-and-reduce-2c13)
@@ -40,5 +41,6 @@
 - [New York City Taxi and For-Hire Vehicle Data](https://github.com/toddwschneider/nyc-taxi-data)\
 - [Peking University Open Research Data Platform](https://opendata.pku.edu.cn/)
 - [Statista](https://www.statista.com/)
+- [Convert Wiki Tables to CSV](https://wikitable2csv.ggor.de/)
 
 \*Thanks for contributing, Thomas, Phyllis!
