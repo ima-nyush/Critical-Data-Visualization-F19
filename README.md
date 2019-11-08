@@ -193,7 +193,7 @@ Due Monday (2019/09/16):
       2. design a discussion format and facilitate it in class
     - arrange a meeting with me to catch up on your work (how about Thursday or Friday?)
 
-*tips:
+\*tips:
 - use **Dear Data** ([link1](http://giorgialupi.com/dear-data), [link1](http://www.stefanieposavec.com/dear-data-about)) as an inspiration
 - what to collect? anything, the more detail the better.
 - don’t just decide on what general subject to collect, but make a plan for the actual measurements (think of Dear Data)
