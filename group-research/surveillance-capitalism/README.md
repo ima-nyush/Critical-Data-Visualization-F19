@@ -1,6 +1,6 @@
 ## Group Research Assignment: Surveillance Capitalism
 
-> "*Sxience Finds--Industry Applies--Man Confirms.*""
+> "*Science Finds--Industry Applies--Man Confirms.*""
 
 (Motto of the 1933 Chicago World's Fair)
 
