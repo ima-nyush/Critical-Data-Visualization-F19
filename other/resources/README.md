@@ -20,7 +20,7 @@
 - [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
 - [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
 - ["Chart about the world through the eyes of the US"](https://pudding.cool/2018/12/countries/)
-- [Reddit: DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [reddit.com/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 ### Infos
 
@@ -43,5 +43,6 @@
 - [Peking University Open Research Data Platform](https://opendata.pku.edu.cn/)
 - [Statista](https://www.statista.com/)
 - [Convert Wiki Tables to CSV](https://wikitable2csv.ggor.de/)
+- [Custom GeoJSON](https://geojson-maps.ash.ms/)
 
 \*Thanks for contributing, Thomas, Phyllis!

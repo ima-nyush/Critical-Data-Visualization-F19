@@ -53,7 +53,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 7 - [Data Ethics](#week-7)
 - Week 8 - [Concept Review](#week-8)
 - Week 9 - [Automating inequality](#week-9)
-- Week 10 - Data Story: Work in Progress Presentations 📚
+- Week 10 - [Data Story: Work in Progress Presentations 📚](#week-10)
 - Week 11 - Surveillance Capitalism
 - Week 12 - Concept Review
 - Week 13 - Activism, Leaks and Whistleblowers
@@ -657,6 +657,30 @@ Due Wednesday (2019/11/13):
   - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki.
 
 ## WEEK 10
+
+<!-- ![week8.jpg](other/assets/week8.jpg) -->
+
+### Monday Class
+
+Work in Progress Presentations! ([slides](https://docs.google.com/presentation/d/1I5fnQcnLSC_RFuGLY8ljoAm7z3sq2j4FqIXrnNm3VVw/edit?usp=sharing))
+
+#### Assignments:
+
+Due Monday (2019/11/18):
+- Read the chapter *Cloud* from the book [*New Dark Age*](https://www.versobooks.com/books/3002-new-dark-age) by [James Bridle](https://jamesbridle.com/)
+  - Find three passages (1-3 sentences) you find interesting:
+    - >Quote them in a README.md file like this
+
+      and add you own thoughts below.
+  - Submit your thoughts to the class wiki.
+
+- Next week's Group Research Presentation:
+  - Cyndi, Phyllis & Yiqi
+  - find the resources for your group research [here](/group-research/surveillance-capitalism).
+
+
+###### Optional/Related readings and resources:
+
 ## WEEK 11
 ## WEEK 12
 ## WEEK 13
