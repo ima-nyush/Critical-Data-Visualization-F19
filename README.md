@@ -330,9 +330,9 @@ Due Monday (2019/10/07):
 
 ###### Optional/Related readings and resources:
 
-[*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
-[*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf), research article by RASHIDA RICHARDSON, JASON M. SCHULTZ & KATE CRAWFORD (2019)
-[Data Humanism, The Revolution will be Visualized.](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold/), Georgia Lupi
+- [*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
+- [*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf), research article by RASHIDA RICHARDSON, JASON M. SCHULTZ & KATE CRAWFORD (2019)
+- [Data Humanism, The Revolution will be Visualized.](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold/), Georgia Lupi
 
 ### Wednesday Lab
 
