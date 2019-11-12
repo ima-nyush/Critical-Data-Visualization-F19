@@ -33,9 +33,9 @@ This class seeks to untangle some of these issues practically and theoretically.
 ||**Fall Break**||
 |**5**|[Concept Review](#week-5)|Old bits, new bits: scales, data functions, axis, filter method|
 |**6**|Data Zine Project Presentations 🎉|Introducing: Time. Update transitions|
-|**7**|Data Ethics||
-|**8**|Concept Review||
-|**9**|Algorithmic decision-making & automating inequality||
+|**7**|Data Ethics|Enter, Update, Exit|
+|**8**|Concept Review|Generators, Components & Layouts|
+|**9**|Algorithmic decision-making & automating inequality|From Line to Map|
 |**10**|Data Story: Work in Progress Presentations 📚||
 |**11**|Surveillance Capitalism||
 |**12**|Concept Review||
@@ -43,21 +43,31 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**14**|Data Story Project Presentations 🥂|| -->
 
 #### Content
-- Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
-- Week 2 - [Data Infrastructures](https://github.com/leoneckert/cdv-fall19#week-2)
-- Week 3 - [Bias](#week-3)
-- Week 4 - [Prediction and Uncertainty](#week-4)
+`👾 = Programming Labs`
+- Week 1 - [**Mapping the Landscape**](https://github.com/leoneckert/cdv-fall19#week-1)
+  - `👾 Collecting Data`
+- Week 2 - [**Data Infrastructures**](https://github.com/leoneckert/cdv-fall19#week-2)
+  - `👾 Meet D3js I`
+- Week 3 - [**Bias**](#week-3)
+  - `👾 Meet D3js II`
+- Week 4 - [**Prediction and Uncertainty**](#week-4)
+  - `👾 D3 Scales`
 - **Fall Break**
-- Week 5 - [Concept Review](#week-5)
-- Week 6 - [Data Zine Project Presentations 🎉](#week-6)
-- Week 7 - [Data Ethics](#week-7)
-- Week 8 - [Concept Review](#week-8)
-- Week 9 - [Automating inequality](#week-9)
-- Week 10 - [Data Story: Work in Progress Presentations 📚](#week-10)
-- Week 11 - Surveillance Capitalism
-- Week 12 - Progress Review
-- Week 13 - Activism, Leaks and Whistleblowers
-- Week 14 - Data Story Project Presentations 🥂
+- Week 5 - [**Concept Review**](#week-5)
+  - `👾 Old bits, new bits: scales, data functions, axis, filter method`
+- Week 6 - [**Data Zine Project Presentations 🎉**](#week-6)
+  - `👾 Introducing: Time. Update transitions`
+- Week 7 - [**Data Ethics**](#week-7)
+  - `👾 Enter, Update, Exit`
+- Week 8 - [**Concept Review**](#week-8)
+  - `👾 Generators, Components & Layouts`
+- Week 9 - [**Automating inequality**](#week-9)
+  - `👾 From Line to Map`
+- Week 10 - [**Data Story: Work in Progress Presentations 📚**](#week-10)
+- Week 11 - **Surveillance Capitalism**
+- Week 12 - **Progress Review**
+- Week 13 - **Activism, Leaks and Whistleblowers**
+- Week 14 - **Data Story Project Presentations 🥂**
 
 
 ## WEEK 1
