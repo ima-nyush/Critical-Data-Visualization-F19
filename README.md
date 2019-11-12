@@ -23,26 +23,26 @@ This class seeks to untangle some of these issues practically and theoretically.
 
 [Course Overview and Learning Outcomes](https://github.com/leoneckert/cdv-fall19#course-overview-and-learning-outcomes)
 
-<!-- #### Content
-|Week|Class|Lab|
+#### Content
+|Week|Class (Monday)|👾 Lab (Wednesday)|
 |:-:|---|-|
-|**1**|[Mapping the Landscape](#week-1)|Collect Data|
-|**2**|[Data Infrastructures](#week-2)|Meet D3js I|
-|**3**|[Bias](#week-3)|Meet D3js II|
-|**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
+|**1**|[Mapping the Landscape](#week-1)|`Collect Data`|
+|**2**|[Data Infrastructures](#week-2)|`Meet D3js I`|
+|**3**|[Bias](#week-3)|`Meet D3js II`|
+|**4**|[Prediction and Uncertainty](#week-4)|`D3 Scales`|
 ||**Fall Break**||
-|**5**|[Concept Review](#week-5)|Old bits, new bits: scales, data functions, axis, filter method|
-|**6**|Data Zine Project Presentations 🎉|Introducing: Time. Update transitions|
-|**7**|Data Ethics|Enter, Update, Exit|
-|**8**|Concept Review|Generators, Components & Layouts|
-|**9**|Algorithmic decision-making & automating inequality|From Line to Map|
-|**10**|Data Story: Work in Progress Presentations 📚||
+|**5**|[Concept Review](#week-5)|`Old bits, new bits: scales, data functions, axis, filter method`|
+|**6**|[Data Zine Project Presentations 🎉](#week-6)|`Introducing: Time. Update transitions`|
+|**7**|[Data Ethics](#week-7)|`Enter, Update, Exit`|
+|**8**|[Concept Review](#week-8)|`Generators, Components & Layouts`|
+|**9**|[Automating inequality](#week-9)|`From Line to Map`|
+|**10**|[Data Story: Work in Progress Presentations 📚](#week-10)||
 |**11**|Surveillance Capitalism||
 |**12**|Concept Review||
 |**13**|Activism, Leaks and Whistleblowers||
-|**14**|Data Story Project Presentations 🥂|| -->
+|**14**|Data Story Project Presentations 🥂||
 
-#### Content
+<!-- #### Content
 `👾 = Programming Labs`
 - Week 1 - [**Mapping the Landscape**](https://github.com/leoneckert/cdv-fall19#week-1)
   - `👾 Collecting Data`
@@ -67,7 +67,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 11 - **Surveillance Capitalism**
 - Week 12 - **Progress Review**
 - Week 13 - **Activism, Leaks and Whistleblowers**
-- Week 14 - **Data Story Project Presentations 🥂**
+- Week 14 - **Data Story Project Presentations 🥂** -->
 
 
 ## WEEK 1
