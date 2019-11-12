@@ -55,7 +55,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 - Week 9 - [Automating inequality](#week-9)
 - Week 10 - [Data Story: Work in Progress Presentations 📚](#week-10)
 - Week 11 - Surveillance Capitalism
-- Week 12 - Concept Review
+- Week 12 - Progress Review
 - Week 13 - Activism, Leaks and Whistleblowers
 - Week 14 - Data Story Project Presentations 🥂
 
@@ -658,7 +658,7 @@ Due Wednesday (2019/11/13):
 
 ## WEEK 10
 
-<!-- ![week8.jpg](other/assets/week8.jpg) -->
+![week10.jpg](other/assets/week10.jpg)
 
 ### Monday Class
 
