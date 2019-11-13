@@ -698,6 +698,7 @@ Due Monday (2019/11/18):
 - WIP Presentations
 - What do we think a "Data Story" is?
 - Lab: Interaction
+- Upcoming Labs
 
 [The Lab](labs/lab10)
 
