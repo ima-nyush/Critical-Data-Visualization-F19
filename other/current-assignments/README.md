@@ -7,16 +7,6 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
 
 
 
-##### Due Wednesday (2019/11/13):
-- Create a paper prototype for your Data Story Project
-  - Download template here: [horizontal](../material/horizontal-data-story-prototype.pdf) or [vertical](../material/vertical-data-story-prototype.pdf) layout.
-    - Print the in **A3 Format**.
-    - You can use multiple printouts for different pages of your website.
-  - Use the space around to browser for annotations and further explanations of your website.
-    - this should cover interaction, transition, movements, sounds, special effects.
-  - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki.
-
-
 ##### Due Monday (2019/11/18):
 - Read the chapter *Cloud* from the book [*New Dark Age*](https://www.versobooks.com/books/3002-new-dark-age) by [James Bridle](https://jamesbridle.com/)
   - Find three passages (1-3 sentences) you find interesting:
@@ -28,6 +18,23 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
 - Next week's Group Research Presentation:
   - Cyndi, Phyllis & Yiqi
   - find the resources for your group research [here](/group-research/surveillance-capitalism).
+
+##### Due Wednesday (2019/11/20):
+- Visualize part of your data (this exercise can ultimately turn into your final project)
+  - Add interaction using the techniques we learned today (excluding simple CSS hover ;-)
+
+
+
+
+  <!-- ##### Due Wednesday (2019/11/13):
+  - Create a paper prototype for your Data Story Project
+    - Download template here: [horizontal](../material/horizontal-data-story-prototype.pdf) or [vertical](../material/vertical-data-story-prototype.pdf) layout.
+      - Print the in **A3 Format**.
+      - You can use multiple printouts for different pages of your website.
+    - Use the space around to browser for annotations and further explanations of your website.
+      - this should cover interaction, transition, movements, sounds, special effects.
+    - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki. -->
+
 
 <!-- ##### Due Monday (2019/11/11):
   - On Monday, November 11th, your **Data Story: Work in Progress Presentations** is due.
