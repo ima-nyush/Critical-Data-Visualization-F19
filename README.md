@@ -694,8 +694,8 @@ Due Monday (2019/11/18):
 
 ### Wednesday Lab
 
-- Paper Prototypes
 - WIP Presentations
+- Paper Prototypes
 - What do we think a "Data Story" is?
 - Lab: Interaction
 - Upcoming Labs
