@@ -691,6 +691,23 @@ Due Monday (2019/11/18):
 
 ###### Optional/Related readings and resources:
 
+
+### Wednesday Lab
+
+- Paper Prototypes
+- WIP Presentations
+- What do we think a "Data Story" is?
+- Lab: Interaction
+
+[The Lab](labs/lab10)
+
+#### Assignments:
+
+Due Wednesday (2019/11/20):
+- Visualize part of your data (this exercise can ultimately turn into your final project)
+  - Add interaction using the techniques we learned today (excluding simple CSS hover ;-)
+
+
 ## WEEK 11
 ## WEEK 12
 ## WEEK 13

@@ -25,6 +25,7 @@
 ### Infos
 
 - [Data Rules Everything Around Me](http://dream.netizen.org/)
+- [Tweet thread on leaked FB documents](https://twitter.com/WolfieChristl/status/1193990979721793537?s=20)
 
 ### Data Sources
 > if you come across **good or fun data sources**, [click here](https://forms.gle/66oLcntJBgvC3sQaA) to share them with us. Thanks! 🐙
