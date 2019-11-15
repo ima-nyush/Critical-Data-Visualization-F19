@@ -21,13 +21,14 @@
 - [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!")
 - ["Chart about the world through the eyes of the US"](https://pudding.cool/2018/12/countries/)
 - [reddit.com/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Mona Chalabi](https://www.instagram.com/monachalabi/)
 
 ### Infos
 
 - [Data Rules Everything Around Me](http://dream.netizen.org/)
 - [Tweet thread on leaked FB documents](https://twitter.com/WolfieChristl/status/1193990979721793537?s=20)
 
-### Data Sources
+### Data Sources (and sets)
 > if you come across **good or fun data sources**, [click here](https://forms.gle/66oLcntJBgvC3sQaA) to share them with us. Thanks! 🐙
 
 
@@ -45,5 +46,6 @@
 - [Statista](https://www.statista.com/)
 - [Convert Wiki Tables to CSV](https://wikitable2csv.ggor.de/)
 - [Custom GeoJSON](https://geojson-maps.ash.ms/)
+- [Web News Ngram Datasets (WEB-NGRAM)](https://blog.gdeltproject.org/announcing-the-web-news-ngram-datasets-web-ngram/)
 
 \*Thanks for contributing, Thomas, Phyllis!
