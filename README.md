@@ -711,6 +711,42 @@ Due Wednesday (2019/11/20):
 
 ## WEEK 11
 
+![week11.jpg](other/assets/week11.jpg)
+
+### Monday Class
+
+- [Surveillance Capitalism: presentation and discussion](/group-research/surveillance-capitalism) by Cyndi, Phyllis & Yiqi.
+- **Data Story**
+  - Due: **Monday, December 9th, noon**
+  - A website that guides the viewer through a subject alongside a data set. Every story has a thread, your projects needs one too.
+  - The website must include at least two D3 data visualizations make use of the technical concepts covered in our labs.
+  - Visualizations are complemented by text that helps guide the viewers engagement with your subject.   
+  - Your project must include a `README.md` in which your reflect on your project and process. Include visuals and cover the following questions:
+    - describe what have you created?
+    - how does it work?
+    - how is it intended to be engaged with?/what do you hope for a viewer to take away from it?
+    - which aspect of it are you must proud about, and why?
+    - which part would you improve if you had more time?
+    - what did your process look like? outline a rough timeline: when did you settle in on a dataset, how extensive was your contextual research and when did you start building the actual page?
+    - during your process, what compromises did you make with regards to your *dream* outcome of this project?
+- Homework
+- [Help me best tailor my material to your needs](https://forms.gle/dit2Dw4pmGAbsc2K9)
+- Discuss the *Bridle* reading.
+
+
+#### Assignments:
+Due **tonight** (2019/11/18):
+- Please let me know what would be most helpful to cover in the upcoming labs [by filling out this form](https://forms.gle/dit2Dw4pmGAbsc2K9).
+
+Due Monday (2019/11/25):
+- Build your website.
+  - Focus on the layout, all scrolling, paging, etc. that you envision for your final project, should be included.
+  - Where D3 SVGs would go, put an empty `<div></div>` instead and assign  CSS `border: solid black 1px;` (to make it visible).
+  - Include *all* of the text that will be on your final website.
+  - Push and submit a link to the class wiki.
+  - For next class, be prepared to talk about your ideas.
+
+
 ###### Optional/Related readings and resources:
 - [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk), talk by [Shoshana Zuboff](https://en.wikipedia.org/wiki/Shoshana_Zuboff) (2019)
 
