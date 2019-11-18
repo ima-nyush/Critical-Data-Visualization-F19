@@ -4,10 +4,26 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
 
 
 
+##### Due **tonight** (2019/11/18):
+- Please let me know what would be most helpful to cover in the upcoming labs [by filling out this form](https://forms.gle/dit2Dw4pmGAbsc2K9).
+
+##### Due Wednesday (2019/11/20):
+- Visualize part of your data (this exercise can ultimately turn into your final project)
+  - Add interaction using the techniques we learned today (excluding simple CSS hover ;-)
+
+##### Due Monday (2019/11/25):
+  - Build your website.
+    - Focus on the layout, all scrolling, paging, etc. that you envision for your final project, should be included.
+    - Where D3 SVGs would go, put an empty `<div></div>` instead and assign  CSS `border: solid black 1px;` (to make it visible).
+    - Include *all* of the text that will be on your final website.
+    - Push and submit a link to the class wiki.
+    - For next class, be prepared to talk about your ideas.
 
 
 
-##### Due Monday (2019/11/18):
+
+
+<!-- ##### Due Monday (2019/11/18):
 - Read the chapter *Cloud* from the book [*New Dark Age*](https://www.versobooks.com/books/3002-new-dark-age) by [James Bridle](https://jamesbridle.com/)
   - Find three passages (1-3 sentences) you find interesting:
     - >Quote them in a README.md file like this
@@ -17,13 +33,7 @@ I try to copy assignments from the [main page](../../) to this place. Please poi
 
 - Next week's Group Research Presentation:
   - Cyndi, Phyllis & Yiqi
-  - find the resources for your group research [here](/group-research/surveillance-capitalism).
-
-##### Due Wednesday (2019/11/20):
-- Visualize part of your data (this exercise can ultimately turn into your final project)
-  - Add interaction using the techniques we learned today (excluding simple CSS hover ;-)
-
-
+  - find the resources for your group research [here](/group-research/surveillance-capitalism). -->
 
 
   <!-- ##### Due Wednesday (2019/11/13):
