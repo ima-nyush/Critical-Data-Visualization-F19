@@ -37,7 +37,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**8**|[Concept Review](#week-8)|`Generators, Components & Layouts`|
 |**9**|[Automating inequality](#week-9)|`From Line to Map`|
 |**10**|[Data Story: Work in Progress Presentations 📚](#week-10)|`Interaction: Event listeners in D3`|
-|**11**|Surveillance Capitalism||
+|**11**|[Surveillance Capitalism](#week-11)||
 |**12**|Concept Review||
 |**13**|Activism, Leaks and Whistleblowers||
 |**14**|Data Story Project Presentations 🥂||
