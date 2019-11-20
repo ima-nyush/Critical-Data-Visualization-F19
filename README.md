@@ -10,8 +10,8 @@ Welcome! This page will be filled with material and links throughout the Semeste
 
 ##### Other:
 
+- [Current Assignments](other/current-assignments) (assignments posted here, too. Please let me know if I forgot to update any of the two, thanks!)
 - [Resources](other/resources)
-- **Brief for Data Zine Project**
 
 #### Course Description
 Data is at the heart of the increasing role technology has in our lives. Data collection and algorithmic processing are not only central to recent technical breakthroughs such as in AI and automation but have created new economic paradigms where data equals value and shape political approaches to power and control.
@@ -23,41 +23,51 @@ This class seeks to untangle some of these issues practically and theoretically.
 
 [Course Overview and Learning Outcomes](https://github.com/leoneckert/cdv-fall19#course-overview-and-learning-outcomes)
 
-<!-- #### Content
-|Week|Class|Lab|
+#### Content
+|Week|Class (Monday)|👾 Lab (Wednesday)|
 |:-:|---|-|
-|**1**|[Mapping the Landscape](#week-1)|Collect Data|
-|**2**|[Data Infrastructures](#week-2)|Meet D3js I|
-|**3**|[Bias](#week-3)|Meet D3js II|
-|**4**|[Prediction and Uncertainty](#week-4)|D3 Scales|
+|**1**|[Mapping the Landscape](#week-1)|`Collect Data`|
+|**2**|[Data Infrastructures](#week-2)|`Meet D3js I`|
+|**3**|[Bias](#week-3)|`Meet D3js II`|
+|**4**|[Prediction and Uncertainty](#week-4)|`D3 Scales`|
 ||**Fall Break**||
-|**5**|[Concept Review](#week-5)|Old bits, new bits: scales, data functions, axis, filter method|
-|**6**|Data Zine Project Presentations 🎉||
-|**7**|Data Ethics||
-|**8**|Concept Review||
-|**9**|Algorithmic decision-making & automating inequality||
-|**10**|Data Story: Work in Progress Presentations 📚||
-|**11**|Surveillance Capitalism||
+|**5**|[Concept Review](#week-5)|`Old bits, new bits: scales, data functions, axis, filter method`|
+|**6**|[Data Zine Project Presentations 🎉](#week-6)|`Introducing: Time. Update transitions`|
+|**7**|[Data Ethics](#week-7)|`Enter, Update, Exit`|
+|**8**|[Concept Review](#week-8)|`Generators, Components & Layouts`|
+|**9**|[Automating inequality](#week-9)|`From Line to Map`|
+|**10**|[Data Story: Work in Progress Presentations 📚](#week-10)|`Interaction: Event listeners in D3`|
+|**11**|[Surveillance Capitalism](#week-11)||
 |**12**|Concept Review||
 |**13**|Activism, Leaks and Whistleblowers||
-|**14**|Data Story Project Presentations 🥂|| -->
+|**14**|Data Story Project Presentations 🥂||
 
-#### Content
-- Week 1 - [Mapping the Landscape](https://github.com/leoneckert/cdv-fall19#week-1)
-- Week 2 - [Data Infrastructures](https://github.com/leoneckert/cdv-fall19#week-2)
-- Week 3 - [Bias](#week-3)
-- Week 4 - [Prediction and Uncertainty](#week-4)
+<!-- #### Content
+`👾 = Programming Labs`
+- Week 1 - [**Mapping the Landscape**](https://github.com/leoneckert/cdv-fall19#week-1)
+  - `👾 Collecting Data`
+- Week 2 - [**Data Infrastructures**](https://github.com/leoneckert/cdv-fall19#week-2)
+  - `👾 Meet D3js I`
+- Week 3 - [**Bias**](#week-3)
+  - `👾 Meet D3js II`
+- Week 4 - [**Prediction and Uncertainty**](#week-4)
+  - `👾 D3 Scales`
 - **Fall Break**
-- Week 5 - [Concept Review](#week-5)
-- Week 6 - Data Zine Project Presentations 🎉
-- Week 7 - Data Ethics
-- Week 8 - Concept Review
-- Week 9 - Algorithmic decision-making & automating inequality
-- Week 10 - Data Story: Work in Progress Presentations 📚
-- Week 11 - Surveillance Capitalism
-- Week 12 - Concept Review
-- Week 13 - Activism, Leaks and Whistleblowers
-- Week 14 - Data Story Project Presentations 🥂
+- Week 5 - [**Concept Review**](#week-5)
+  - `👾 Old bits, new bits: scales, data functions, axis, filter method`
+- Week 6 - [**Data Zine Project Presentations 🎉**](#week-6)
+  - `👾 Introducing: Time. Update transitions`
+- Week 7 - [**Data Ethics**](#week-7)
+  - `👾 Enter, Update, Exit`
+- Week 8 - [**Concept Review**](#week-8)
+  - `👾 Generators, Components & Layouts`
+- Week 9 - [**Automating inequality**](#week-9)
+  - `👾 From Line to Map`
+- Week 10 - [**Data Story: Work in Progress Presentations 📚**](#week-10)
+- Week 11 - **Surveillance Capitalism**
+- Week 12 - **Progress Review**
+- Week 13 - **Activism, Leaks and Whistleblowers**
+- Week 14 - **Data Story Project Presentations 🥂** -->
 
 
 ## WEEK 1
@@ -116,7 +126,7 @@ Due Monday (2019/09/09):
 - [*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
 
 
-*online version accessible through NYU library
+\*online version accessible through NYU library
 
 ### Wednesday Lab
 
@@ -164,10 +174,10 @@ Announcement: Data Zine
 
 Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
-- [ ] Yiqi, Philis & Cindy
-- [ ] Jerry, Kevin & Jinzhong
-- [ ] Kennedy & Sarah
-- [X] Aleksandra, Jannie & Thomas
+- [ ] Yiqi, Phyllis & Cyndi
+- [X] Jerry, Kevin & Jinzhong
+- [X] Kennedy, Sarah & Thomas (added here)
+- [X] Aleksandra & Jannie (Thomas missed this)
 
 ###### [slides](https://docs.google.com/presentation/d/1edizY8fLu8G2llft7GKdGhv7F2KApGpDJXAM46X8w0o/edit?usp=sharing)
 
@@ -193,7 +203,7 @@ Due Monday (2019/09/16):
       2. design a discussion format and facilitate it in class
     - arrange a meeting with me to catch up on your work (how about Thursday or Friday?)
 
-*tips:
+\*tips:
 - use **Dear Data** ([link1](http://giorgialupi.com/dear-data), [link1](http://www.stefanieposavec.com/dear-data-about)) as an inspiration
 - what to collect? anything, the more detail the better.
 - don’t just decide on what general subject to collect, but make a plan for the actual measurements (think of Dear Data)
@@ -330,7 +340,9 @@ Due Monday (2019/10/07):
 
 ###### Optional/Related readings and resources:
 
-[*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
+- [*Ways to Predict the Future*](https://www.youtube.com/watch?v=PEK-nLzQvw4), talk by Sam Lavigne and Tega Brain (2019)
+- [*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf), research article by RASHIDA RICHARDSON, JASON M. SCHULTZ & KATE CRAWFORD (2019)
+- [Data Humanism, The Revolution will be Visualized.](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold/), Georgia Lupi
 
 ### Wednesday Lab
 
@@ -377,7 +389,7 @@ One-on-one reviews of projects progress.
 - [X] Jinzhong
 - [X] Robert
 - [X] Eric
-- [X] Thomas (not in class)
+- [ ] Thomas (not in class)
 - [X] Sarah
 - [X] Cyndi
 - [X] Kennedy
@@ -385,7 +397,7 @@ One-on-one reviews of projects progress.
 - [X] Jannie
 - [X] Yiqi
 - [X] Aleksandra
-- [X] Jerry (not in class)
+- [ ] Jerry (not in class)
 
 
 
@@ -406,11 +418,349 @@ Due Monday (2019/10/14):
 
 
 ## WEEK 6
+
+![data zine project presentations](other/assets/week6.jpg)
+
+discuss these **questions for 3-4 minutes**:
+
+- What data did you choose to collect?
+- How did you collect it, what was the routine?
+- Why did you choose to visualize the data in this way?
+- What can be seen in the visualization? Does it reveal something you didn't expect?
+- Did you make crucial compromises? Which ones?
+- If this project had a larger scale and wasn't built for print, how would you imagine it to be?
+
+then, **2 minutes feedback** from the guest critics.
+
+#### Assignments:
+
+Due Monday (2019/10/21):
+- Listen to: *Radiolab: Right to be Forgotten* ([WNYC](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Apple Podcast](https://podcasts.apple.com/us/podcast/right-to-be-forgotten/id152249110?i=1000447612390), [Spotify](https://open.spotify.com/episode/6phgVP5EQejvEzV8q27ChO)). It's a very nice podcast, enjoy it, and make your own thoughts about what's a *fair* or *right* use of data in the described situations.
+- Find **two** articles that tell a story with data and data visualization.
+  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to [the class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)).
+  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
+- Next week's Group Research Presentation:
+  - Eric, Jerry & Jinzhong
+  - find the resources for your group research [here](/group-research/data-ethics).
+
+
+###### Random thoughts or references
+
+- [D3 graphics in the wild -> Chrome inspector, looks familiar!](https://www.nytimes.com/interactive/2019/10/10/climate/driving-emissions-map.html?action=click&module=Top%20Stories&pgtype=Homepage)
+- [graphs to make points](https://twitter.com/karim_douieb/status/1181695687005745153) ("Try to impeach this? Challenge accepted!") ([add-on](https://twitter.com/karim_douieb/status/1186229919182966785))
+
+### Wednesday Lab
+
+- "[*The best stats you have ever seen*](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en)", Hans Rosling (start at 2:30)
+- Build an abstract, dynamic visualization together
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab6)
+
+#### Assignments:
+
+Due Wednesday (2019/10/23):
+- Read the following (short) write-ups by Mike Bostock, note down any questions you have
+  - [Thinking with Joins](https://bost.ocks.org/mike/join/)
+  - [General Update Pattern, I](https://bl.ocks.org/mbostock/3808218)
+  - [General Update Pattern, II](https://bl.ocks.org/mbostock/3808221)
+  - [General Update Pattern, III](https://bl.ocks.org/mbostock/3808234)
+- Instructions for this week's Coding Exercise can be found [here](labs/lab6/assignment).
+  - in short, it's about altering this Lab's in-class coding to behave like this:
+  ![lab6assignmentsmall](other/assets/lab6assignmentsmall.gif)
+  - push and submit your finished exercise to [the class wiki](https://github.com/leoneckert/cdv-fall19/wiki/Coding-Exercise:-Update-Transition-(week7))
+
 ## WEEK 7
+
+![week7.jpg](other/assets/week7.jpg)
+
+### Monday Class
+
+- [Ethics: presentation and discussion](/group-research/data-ethics) by Eric, Jerry and Jinzhong.
+- Discussing *Radiolab: Right to be Forgotten*.
+- Go through [submitted articles](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7))
+    - mention scraping, [example](https://projects.christianlaesser.com/travel-visa-inequality/)
+
+
+- Project Announcement: **Data Story Project** (Week 14) and **Work in Progress / Context Presentation** (Week (10)
+  - The final project is **a story that emerges from and is told alongside a dataset** (or several).
+    - Inspiration can be found in the articles you collectively [gathered this week](https://github.com/leoneckert/cdv-fall19/wiki/Two-Data-Articles-(week-7)).
+    - To tell the story you will have to become **deeply familiar with a dataset** that you choose (or create): not only with its **technical structure**, but also its **context**, its **origin**, the **information it does/does not carry**, the **insights** it provides and **controversies** it might fuel.
+  - You will present the contextual research part of this project in a 5 minute **Work in Progress / Context Presentation** (using slides) in Week 10. You are expected to demonstrate your research abilities, not your technical expertise. *What is the story that you are telling?*
+  - After that, as your final project (Week 14), you will create a multi-page website: your **Data Story**. It must include at least two interactive data visualizations as well as contextual information (mainly from your Work in Progress presentation).
+
+
+- **The Plan**
+  - **Pre-select datasets**
+    - due this Wednesday
+    - see this week's assignment section below.
+  - **Commit to a dataset**
+    - this will happen next Monday.
+  - **Contextual Research**
+    - presented in Week 10.
+  - **Build of a web based Data Story**
+    - presented in Week 14.
+
+###### random question:
+who has used Node before?
+
+#### Assignments:
+
+Due **this** Wednesday (2019/10/23):
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+    - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/cdv-fall19/wiki) by Wednesday.
+  - Find some sources for datasets in our [Resource](https://github.com/leoneckert/cdv-fall19/tree/master/other/resources) page.
+    - if you find other cool sources (both english and chinese), consider [submitting them to a collection](https://forms.gle/66oLcntJBgvC3sQaA) I have started 😊
+  - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about five weeks dealing with the subject you choose, pick something exciting.
+  - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
+
+
+###### Optional/Related readings and resources:
+
+### Wednesday Lab
+
+- Dynamic Visualization, Part 2 (advanced)
+- The three different selections
+  - **Update**
+  - **Enter**
+  - **Exit**
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab7)
+
+#### Assignments:
+
+Due Wednesday (2019/10/23):
+- Read carefully through the Lab, maybe multiple times.
+- Finish the website we have started to build in class making all the buttons functional
+  - the last button is a *wild* one, make it to unexpected things
+  - when you are done, push and submit to the class wiki
+- when you have mastered it
+  - please be playful, transitions are fun, change colors, positions, text, and more.
+  - the transition can also animate differently, take a look here (do this after you have achieved all the other parts):
+    - [transitions](https://github.com/d3/d3-transition)
+    - [transition ease](https://github.com/d3/d3-transition#transition_ease)
+    - [ease functions](https://github.com/d3/d3-ease)
+    - [ease examples](https://observablehq.com/@d3/easing-animations?collection=@d3/d3-ease)
+
+![lab7assignmentsmall](other/assets/lab7assignmentsmall.gif)
+
 ## WEEK 8
+
+![week8.jpg](other/assets/week8.jpg)
+
+### Monday Class
+
+One-on-one reviews of the concepts for the next project.
+
+- [X] Yiqi
+- [X] Sarah
+- [X] Eszter
+- [X] Jinzhong
+- [X] Cyndi
+- [X] Aleksandra
+- [X] Jerry
+- [X] Eric
+- [X] Jannie
+- [X] Thomas
+- [X] Kennedy
+- [X] Phyllis
+- [X] Robert
+
+
+#### Assignments:
+
+Due Monday (2019/11/04):
+- Read [*The Messy Truth About Social Credit*](https://logicmag.io/china/the-messy-truth-about-social-credit/) from Logic Magazine's [China Issue](https://logicmag.io/china/) (recommended beyond this particular reading).
+  - Note down your thoughts and opinions to discuss them next class.
+- Prepare a short presentation about your project's subject for next classes:
+  - Each of you will present their topic in this format:
+    - 5 slides that can only contain images
+    - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+    - practice your text and its timing (email it to me by Sunday if that helps)
+
+- Next week's Group Research Presentation:
+  - Kennedy, Sarah & Thomas
+  - find the resources for your group research [here](/group-research/automating-inequality).
+
+
+###### Optional/Related readings and resources:
+
+<!-- maybe a node script to clean code? -->
+
+### Wednesday Lab
+
+- Review "Enter, Update, Exit" Coding exercise
+- Generators, Components & Layouts
+- Line Exercise
+
+
+[The Lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab8)
+
+#### Assignments:
+
+Due Wednesday (2019/11/06):
+- Create a "quick and dirty" visualization using the data you have chosen to use for your project.
+  - The focus of this exercise is to make your data workable.
+  - Include at least one transition.
+  - Be as simple or fancy as you desire in the design of your visualization.
+
 ## WEEK 9
+
+![week9.jpg](other/assets/week9.jpg)
+
+### Monday Class
+
+- [Automating Inequality: presentation and discussion](/group-research/automating-inequality) by Kennedy, Sarah & Thomas.
+- 5x20seconds *what's it all about?* **presentations** ([slides](https://docs.google.com/presentation/d/1pYah-hXlrlU4Z7Jc74SZgdlIwxZtYrdaob-QXEh2pNw/edit?usp=sharing))
+- Data Story: Work in Progress Presentations. ([slides](https://docs.google.com/presentation/d/1Tf8uFBpV1EsGzS-fqMbOSfryAwuczf9w6FIsmHcwyT4/edit?usp=sharing))
+
+
+
+#### Assignments:
+
+Due Monday (2019/11/11):
+- On Monday, Novebmer 11th, your **Data Story: Work in Progress Presentations** is due.
+  - you picked a dataset, for next week, research thoroughly about its **context**, its **origin**, the **information it does/does not carry**, the **insights** it might provide and **controversies** it could fuel.
+  - prepare a 4 minute presentation
+    - take [this]((https://docs.google.com/presentation/d/1Tf8uFBpV1EsGzS-fqMbOSfryAwuczf9w6FIsmHcwyT4/edit?usp=sharing)) as a guide (see also below gif)
+    - if you plan to **not** use Google Slides, please let me know by Friday
+    - share a link to your slides with me by 11/11 noon.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+
+
+![guide-to-wip.gif](other/assets/guide-to-wip.gif)
+
+
+###### Optional/Related readings and resources:
+
+
+### Wednesday Lab
+
+- Important Info for next week's **Data Story: Work in Progress Presentations**
+  - Significance
+  - Next Semester this assignment will include a written part. This semester it will not because I want to stick to the syllabus. However, [the structure of the (future) writing assignment](other/data-story-research-write-up) should help you to know what I expect you to cover.
+- Check out your homework
+- Coding
+  - From Line to Map
+  - Line Review
+    - [download](labs/lab9/line-to-map/line-to-map.zip) starting code
+  - Map
+    - geojson
+      - find one!
+    - Projections
+      - [jasondavies.com/maps](https://www.jasondavies.com/maps/voronoi/airports/)
+      - [Map Projections in ArcGIS](https://storymaps.arcgis.com/stories/ea0519db9c184d7e84387924c84b703f) (not all available in D3)
+    - d3.geoPath()
+
+[The Lab](labs/lab9)
+
+#### Assignments:
+
+Due Wednesday (2019/11/13):
+- Create a paper prototype for your Data Story Project
+  - Download template here: [horizontal](other/material/horizontal-data-story-prototype.pdf) or [vertical](other/material/vertical-data-story-prototype.pdf) layout.
+    - Print the in **A3 Format**.
+    - You can use multiple printouts for different pages of your website.
+  - Use the space around to browser for annotations and further explanations of your website.
+    - this should cover interaction, transition, movements, sounds, special effects.
+  - Scan the prototype when you are finished, upload it to your repository and submit a link to the class wiki.
+
 ## WEEK 10
+
+![week10.jpg](other/assets/week10.jpg)
+
+### Monday Class
+
+Work in Progress Presentations! ([slides](https://docs.google.com/presentation/d/1I5fnQcnLSC_RFuGLY8ljoAm7z3sq2j4FqIXrnNm3VVw/edit?usp=sharing))
+
+#### Assignments:
+
+Due Monday (2019/11/18):
+- Read the chapter *Cloud* from the book [*New Dark Age*](https://www.versobooks.com/books/3002-new-dark-age) by [James Bridle](https://jamesbridle.com/)
+  - Find three passages (1-3 sentences) you find interesting:
+    - >Quote them in a README.md file like this
+
+      and add you own thoughts below.
+  - Submit your thoughts to the class wiki.
+
+- Next week's Group Research Presentation:
+  - Cyndi, Phyllis & Yiqi
+  - find the resources for your group research [here](/group-research/surveillance-capitalism).
+
+
+###### Optional/Related readings and resources:
+
+
+### Wednesday Lab
+
+- WIP Presentations
+- Paper Prototypes
+- What do we think a "Data Story" is?
+- Lab: Interaction
+- Upcoming Labs
+
+[The Lab](labs/lab10)
+
+#### Assignments:
+
+Due Wednesday (2019/11/20):
+- Visualize part of your data (this exercise can ultimately turn into your final project)
+  - Add interaction using the techniques we learned today (excluding simple CSS hover ;-)
+
+
 ## WEEK 11
+
+![week11.jpg](other/assets/week11.jpg)
+
+### Monday Class
+
+- [Surveillance Capitalism: presentation and discussion](/group-research/surveillance-capitalism) by Cyndi, Phyllis & Yiqi.
+- **Data Story**
+  - Due: **Monday, December 9th, noon**
+  - A website that guides the viewer through a subject alongside a data set. Every story has a thread, your projects needs one too.
+  - The website must include at least two D3 data visualizations make use of the technical concepts covered in our labs.
+  - Visualizations are complemented by text that helps guide the viewers engagement with your subject.   
+  - Your project must include a `README.md` in which your reflect on your project and process. Include visuals and cover the following questions:
+    - describe what have you created?
+    - how does it work?
+    - how is it intended to be engaged with?/what do you hope for a viewer to take away from it?
+    - which aspect of it are you must proud about, and why?
+    - which part would you improve if you had more time?
+    - what did your process look like? outline a rough timeline: when did you settle in on a dataset, how extensive was your contextual research and when did you start building the actual page?
+    - during your process, what compromises did you make with regards to your *dream* outcome of this project?
+- Homework
+- [Help me best tailor my material to your needs](https://forms.gle/dit2Dw4pmGAbsc2K9)
+- Discuss the *Bridle* reading.
+
+
+#### Assignments:
+Due **tonight** (2019/11/18):
+- Please let me know what would be most helpful to cover in the upcoming labs [by filling out this form](https://forms.gle/dit2Dw4pmGAbsc2K9).
+
+Due Monday (2019/11/25):
+- Build your website.
+  - Focus on the layout, all scrolling, paging, etc. that you envision for your final project, should be included.
+  - Where D3 SVGs would go, put an empty `<div></div>` instead and assign  CSS `border: solid black 1px;` (to make it visible).
+  - Include *all* of the text that will be on your final website.
+  - Push and submit a link to the class wiki.
+  - For next class, be prepared to talk about your ideas.
+
+
+###### Optional/Related readings and resources:
+- [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk), talk by [Shoshana Zuboff](https://en.wikipedia.org/wiki/Shoshana_Zuboff) (2019)
+
+### Wednesday Lab
+
+- Scrolling Interactions
+
+[The Lab](labs/lab11)
+
+#### Assignments:
+
+Due Wednesday (2019/11/27):
+- to be announced
+
 ## WEEK 12
 ## WEEK 13
 ## WEEK 14
