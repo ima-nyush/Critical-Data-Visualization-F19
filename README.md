@@ -750,6 +750,17 @@ Due Monday (2019/11/25):
 ###### Optional/Related readings and resources:
 - [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk), talk by [Shoshana Zuboff](https://en.wikipedia.org/wiki/Shoshana_Zuboff) (2019)
 
+### Wednesday Lab
+
+- Scrolling Interactions
+
+[The Lab](labs/lab11)
+
+#### Assignments:
+
+Due Wednesday (2019/11/27):
+- to be announced
+
 ## WEEK 12
 ## WEEK 13
 ## WEEK 14
